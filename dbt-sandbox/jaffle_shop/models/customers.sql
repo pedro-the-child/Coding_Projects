@@ -18,12 +18,12 @@ payments as (
 
 customer_orders as (
 
-        select
+    select
         customer_id,
-
         min(order_date) as first_order,
         max(order_date) as most_recent_order,
         count(order_id) as number_of_orders
+
     from orders
 
     group by customer_id
@@ -33,36 +33,36 @@ customer_orders as (
 customer_payments as (
 
     select
-        orders.customer_id,
-        sum(amount) as total_amount
+        o.customer_id,
+        sum(p.amount) as total_amount
 
-    from payments
+    from payments as p
 
-    left join orders on
-         payments.order_id = orders.order_id
+    left join orders as o
+        on p.order_id = o.order_id
 
-    group by orders.customer_id
+    group by o.customer_id
 
 ),
 
 final as (
 
     select
-        customers.customer_id,
-        customers.first_name,
-        customers.last_name,
-        customer_orders.first_order,
-        customer_orders.most_recent_order,
-        customer_orders.number_of_orders,
-        customer_payments.total_amount as customer_lifetime_value
+        c.customer_id,
+        c.first_name,
+        c.last_name,
+        co.first_order,
+        co.most_recent_order,
+        co.number_of_orders,
+        cp.total_amount as customer_lifetime_value
 
-    from customers
+    from customers as c
 
-    left join customer_orders
-        on customers.customer_id = customer_orders.customer_id
+    left join customer_orders as co
+        on c.customer_id = co.customer_id
 
-    left join customer_payments
-        on  customers.customer_id = customer_payments.customer_id
+    left join customer_payments as cp
+        on c.customer_id = cp.customer_id
 
 )
 
