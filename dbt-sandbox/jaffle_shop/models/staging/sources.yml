@@ -1,0 +1,10 @@
+version: 2
+
+sources:
+  - name: gbq
+    database: dbt-practice-sandbox
+    schema: dbt_practice
+    tables:
+      - name: raw_customers
+      - name: raw_orders
+      - name: raw_payments

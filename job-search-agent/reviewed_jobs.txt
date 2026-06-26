@@ -1,0 +1,714 @@
+# Format: [dedup_method] | [identifier] | [company] | [title] | [date_evaluated]
+# Methods: canonical, fingerprint, jobboard
+canonical | https://medreview.applytojob.com/apply/iZCIWtGmg7/Data-Scientist-Analyst | MedReview | Data Scientist Analyst | 2026-04-10
+fingerprint | fingerprint::data scientist::remote | Fingerprint (Wellfound) | Data Scientist | 2026-04-10
+fingerprint | saillent::junior data analyst::new york city | Saillent | Junior Data Analyst | 2026-04-10
+fingerprint | typequicker::data analyst::toronto | TypeQuicker | Data Analyst (contract) | 2026-04-10
+fingerprint | maven clinic::clinical outcomes analyst::remote | Maven Clinic | Clinical Outcomes Analyst | 2026-04-10
+canonical | https://www.nexlogica.com/company/careers/informatics-data-analyst/ | Nexlogica | Informatics Data Analyst | 2026-04-10
+canonical | https://careers.fisglobal.com/us/en/job/FIGLUSJR0303423EXTERNAL/Product-Analyst-Senior | FIS Global | Product Analyst Senior (ETRM) | 2026-04-10
+canonical | https://boards.greenhouse.io/xapo61/jobs/5943844003 | Xapo Bank | Senior Data Analyst Marketing | 2026-04-10
+canonical | https://boards.greenhouse.io/xapo61/jobs/5737301003 | Xapo Bank | Senior Data Analyst | 2026-04-10
+canonical | https://boards.greenhouse.io/remotecom/jobs/5757555003 | Remote.com | Senior Analytics Engineer | 2026-04-10
+fingerprint | monzo::senior analytics engineer::uk | Monzo | Senior Analytics Engineer | 2026-04-10
+fingerprint | alphasense::analytics engineer::india | AlphaSense | Analytics Engineer | 2026-04-10
+fingerprint | job&talent::senior analytics engineer::emea | Job&Talent | Senior Analytics Engineer | 2026-04-10
+fingerprint | lovehoney group::senior analytics engineer::eu | Lovehoney Group | Senior Analytics Engineer | 2026-04-10
+fingerprint | luxury presence::senior analytics engineer::canada | Luxury Presence (Canada) | Senior Analytics Engineer | 2026-04-10
+fingerprint | apply digital::senior analytics engineer::canada | Apply Digital | Senior Analytics Engineer | 2026-04-10
+canonical | https://boards.greenhouse.io/calendly/jobs/7595259002 | Calendly | Director of Product Analytics | 2026-04-10
+canonical | https://boards.greenhouse.io/hotelengine/jobs/5465205003 | Hotel Engine | Senior Analytics Engineer (404 - closed) | 2026-04-10
+fingerprint | smart working solutions::senior data analyst & hr operations::remote | Smart Working Solutions | Senior Data Analyst & HR Ops (8+ yrs req) | 2026-04-10
+canonical | https://boards.greenhouse.io/grafanalabs/jobs/5253317004 | Grafana Labs | Demand Generation Data Analyst (posting closed) | 2026-04-10
+canonical | https://jobs.lever.co/sanabenefits/87bd086a-029a-4e24-9509-fb659015b6fc | Sana Benefits | Senior Data Analyst | 2026-04-10
+canonical | https://job-boards.greenhouse.io/weedmaps77/jobs/8413498002 | Weedmaps | Staff Data Analyst | 2026-04-10
+canonical | https://jobs.lever.co/super-com/aaf863cd-0a34-494b-8054-b0d946f23ecf | Super.com | Senior Data Analyst | 2026-04-10
+canonical | https://jobs.lever.co/coderpad/c519d539-774b-45f9-809a-71f72d396e51 | CoderPad | Senior Data Analyst | 2026-04-10
+canonical | https://www.linkedin.com/jobs/view/senior-product-analyst-remote-at-peek-2911562915 | Peek | Senior Product Analyst | 2026-04-10
+canonical | https://jobs.lever.co/thebouqs.com/43b164d2-e7bf-4949-864f-3f60c38e0c48 | The Bouqs Company | Senior Data Analyst | 2026-04-10
+canonical | https://job-boards.greenhouse.io/ezcaterinc/jobs/5096944007 | ezCater | Senior Analyst Marketing Analytics | 2026-04-10
+# 2026-04-13 run — Passed deep evaluation (result files written)
+canonical | https://builtin.com/job/senior-data-analyst-product/8207046 | Thrive Market | Senior Data Analyst, Product | 2026-04-13
+canonical | https://builtin.com/job/senior-data-analyst/8602596 | Doximity | Senior Data Analyst | 2026-04-13
+canonical | https://builtin.com/job/lead-product-data-analyst/8461462 | Jellyfish | Senior Analytics Engineer | 2026-04-13
+canonical | https://builtin.com/job/analytics-engineer/8762429 | Warp | Analytics Engineer | 2026-04-13
+canonical | https://builtin.com/job/senior-product-analyst/8804782 | Hungryroot | Senior Product Analyst | 2026-04-13
+canonical | https://builtin.com/job/analytics-engineer/9004296 | Axios | Analytics Engineer | 2026-04-13
+canonical | https://builtin.com/job/analytics-engineer/9009943 | Flock Safety | Analytics Engineer | 2026-04-13
+canonical | https://builtin.com/job/senior-data-analyst/8797693 | Addition Wealth | Senior Data Analyst | 2026-04-13
+canonical | https://builtin.com/job/senior-data-analyst-product-engineering/8377376 | Cents | Senior Data Analyst (Product & Engineering) | 2026-04-13
+canonical | https://builtin.com/job/staff-analytics-engineer/8265920 | Twilio | Staff Analytics Engineer R&D | 2026-04-13
+canonical | https://www.linkedin.com/jobs/view/senior-data-analyst-customer-value-at-spring-health-4392720966 | Spring Health | Senior Data Analyst, Customer Value | 2026-04-13
+canonical | https://www.linkedin.com/jobs/view/senior-data-analyst-marketing-at-spring-health-4363006584 | Spring Health | Senior Data Analyst, Marketing | 2026-04-13
+canonical | https://www.linkedin.com/jobs/view/senior-data-analyst-at-healthie-4384904582 | Healthie | Senior Data Analyst | 2026-04-13
+canonical | https://www.linkedin.com/jobs/view/analytics-engineer-at-seatgeek-4384775937 | SeatGeek | Analytics Engineer | 2026-04-13
+canonical | https://www.linkedin.com/jobs/view/analytics-engineer-ii-at-alma-4372167280 | Alma | Analytics Engineer II | 2026-04-13
+canonical | https://www.linkedin.com/jobs/view/senior-data-analyst-at-lyra-health-4395725932 | Lyra Health | Sr. Data Analyst | 2026-04-13
+# 2026-04-13 run — Failed deep evaluation
+canonical | https://builtin.com/job/senior-product-analyst/9012404 | Babylist | Senior Product Analyst | 2026-04-13
+canonical | https://builtin.com/job/senior-product-growth-analyst/9016118 | Trust & Will | Senior Product & Growth Analyst | 2026-04-13
+canonical | https://builtin.com/job/sr-analytics-engineer/8869565 | Philo | Sr. Analytics Engineer | 2026-04-13
+canonical | https://builtin.com/job/senior-analytics-engineer/9005404 | GameChanger | Senior Analytics Engineer | 2026-04-13
+canonical | https://builtin.com/job/senior-analytics-engineer-platform-financial-analytics/8970857 | Coinbase | Senior Analytics Engineer | 2026-04-13
+canonical | https://builtin.com/job/analytics-engineer/8550542 | Rightway | Analytics Engineer | 2026-04-13
+canonical | https://builtin.com/job/senior-data-analyst/8915323 | Arcadia | Senior Data Analyst | 2026-04-13
+canonical | https://builtin.com/job/staff-product-analyst/8233911 | Deepgram | Staff Product Analyst | 2026-04-13
+canonical | https://builtin.com/job/senior-data-analyst-marketing-analytics/8863973 | GitLab | Senior Data Analyst, Marketing Analytics | 2026-04-13
+canonical | https://builtin.com/job/senior-data-analyst/8737063 | MongoDB | Senior Data Analyst (People Analytics) | 2026-04-13
+canonical | https://www.linkedin.com/jobs/view/senior-data-analyst-at-instacart-4398328287 | Instacart | Senior Data Analyst (Finance) | 2026-04-13
+canonical | https://www.linkedin.com/jobs/view/senior-data-analyst-at-coalition-inc-4389279347 | Coalition | Senior Data Analyst | 2026-04-13
+canonical | https://www.linkedin.com/jobs/view/senior-data-analyst-early-onboarding-engagement-at-simplepractice-4392969940 | SimplePractice | Senior Data Analyst, Early Onboarding | 2026-04-13
+canonical | https://www.linkedin.com/jobs/view/analytics-engineer-at-freshpaint-4389428431 | Freshpaint | Analytics Engineer | 2026-04-13
+# 2026-04-13 run — First-pass rejections (salary below floor, from BuiltIn with salary data)
+canonical | https://builtin.com/job/senior-analytics-lead/8496783 | firsthand Health | Senior Data Analyst | 2026-04-13
+canonical | https://builtin.com/job/sr-data-analyst/9032641 | Mom's Meals | Sr Data Analyst | 2026-04-13
+canonical | https://builtin.com/job/senior-data-analyst/8552920 | Unacast | Senior Data Analyst | 2026-04-13
+canonical | https://builtin.com/job/senior-data-analyst/8215785 | F&G | Senior Data Analyst | 2026-04-13
+canonical | https://builtin.com/job/sr-data-analyst/8082759 | Lingraphica | Sr. Data Analyst | 2026-04-13
+canonical | https://builtin.com/job/senior-data-analyst/8495374 | Autodesk | Senior Data Analyst | 2026-04-13
+canonical | https://builtin.com/job/sr-data-analyst/8995989 | SS&C Technologies | Sr. Data Analyst | 2026-04-13
+canonical | https://builtin.com/job/product-analyst/8793424 | PEMCO | Product Analyst | 2026-04-13
+canonical | https://builtin.com/job/sr-product-analyst/8796120 | Natera | Product Analyst | 2026-04-13
+canonical | https://builtin.com/job/sr-state-product-analyst-personal-lines/8739443 | Nationwide | Sr State Product Analyst | 2026-04-13
+canonical | https://builtin.com/job/product-analyst/8844608 | Bloomerang | Product Analyst | 2026-04-13
+canonical | https://builtin.com/job/product-analyst-digital-advertising/7960567 | Sensor Tower | Product Analyst | 2026-04-13
+canonical | https://builtin.com/job/analytics-engineer/7222093 | Salve | Analytics Engineer | 2026-04-13
+canonical | https://builtin.com/job/enterprise-performance-analytics-engineer/7746899 | Care Access | Analytics Engineer | 2026-04-13
+canonical | https://builtin.com/job/data-analytics-engineer-i/8981750 | dv01 | Data Analytics Engineer I | 2026-04-13
+# 2026-04-13 run — First-pass rejections (wrong title)
+canonical | https://builtin.com/job/principal-product-analytics-engineer/8877801 | Toast | Principal Product Analytics Engineer | 2026-04-13
+canonical | https://builtin.com/job/sr-lead-software-engineer-analytics-shopping-remote-eligible/9021950 | Capital One | Sr Lead Software Engineer | 2026-04-13
+canonical | https://builtin.com/job/lead-analytics-engineer-10855/8063427 | Coupa | Lead Analytics Engineer | 2026-04-13
+canonical | https://builtin.com/job/product-analyst-intern-spring-summer-2026/7913110 | AccuWeather | Product Analyst Intern | 2026-04-13
+canonical | https://builtin.com/job/avp-product-optimization-analyst/9026905 | Synchrony | AVP Product Optimization Analyst | 2026-04-13
+# 2026-04-14 run — Passed deep evaluation (result files written)
+canonical | https://www.simplyhired.com/job/AlMsJj_Qtlg6p5BxyWYohIe_tQN-pSxesX6DV6KNFHNsLoTLXzMDog | The Misch Group | Senior Marketing & Data Analyst | 2026-04-14
+canonical | https://www.simplyhired.com/job/kUs0WhJL2DpZat2owZdYgaxTGvmdibAomMIYEDQGjID3iqQv0cHmgA | Bullhorn | Senior Operations Data Analyst | 2026-04-14
+# 2026-04-14 run — Failed deep evaluation
+canonical | https://builtin.com/job/senior-data-analyst-gtm-analytics/9039075 | Recharge | Senior Data Analyst, GTM Analytics | 2026-04-14
+canonical | https://builtin.com/job/senior-data-analyst/9060703 | MacroHealth | Senior Data Analyst | 2026-04-14
+canonical | https://builtin.com/job/senior-data-analyst-fp/9060391 | Marqeta | Senior Data Analyst, FP&A | 2026-04-14
+canonical | https://builtin.com/job/analytics-engineer/9060821 | Verisk | Analytics Engineer | 2026-04-14
+canonical | https://www.simplyhired.com/job/BK5hgSo7zhnVP352WMV0tLRS-6BTGe3wsvKSj7nV9av9txTFTmYk8A | SimplePractice | Senior Data Analyst (On-site) | 2026-04-14
+canonical | https://www.simplyhired.com/job/qYdCaFUOgKCNLESD15SvOSWnuXJttXy7EUsn8sw8oVOzN37lbRpXBw | First Citizens Bank | Senior Enterprise Data Analyst | 2026-04-14
+canonical | https://www.simplyhired.com/job/V-l1jApPVunUtBb5spTZlhGOOGNM8DiyqZyX1sxANUKA9si8OJBXRA | Celigo | Product Data Analyst | 2026-04-14
+canonical | https://www.linkedin.com/jobs/view/sr-data-analyst-remote-at-sharecare-4402622910 | Sharecare | Sr. Data Analyst | 2026-04-14
+# 2026-04-14 run — First-pass rejections (salary below floor)
+canonical | https://www.simplyhired.com/job/OjU1Mw-mOJzoq8ieLnotA2ZYj0wF-0VCM3h0lTsrQU2t-qHbctTw8w | Victoria's Secret | Senior Analyst, Data Analytics | 2026-04-14
+canonical | https://www.simplyhired.com/job/GeGY6eHQ9Z4jkbQK-eFBWOyj9EF78O6gAIiSG5YLKc0EAyGS5fwxJA | QuinStreet | Senior Data Analyst | 2026-04-14
+canonical | https://boards.greenhouse.io/knowbe4/jobs/7522540002 | KnowBe4 | Data Analyst | 2026-04-14
+canonical | https://boards.greenhouse.io/cranialtechnologies/jobs/6540143002 | Cranial Technologies | Data Analyst | 2026-04-14
+# 2026-04-14 run — Greenhouse postings returned listing page (likely closed)
+canonical | https://boards.greenhouse.io/grafanalabs/jobs/5390485004 | Grafana Labs | Senior Analytics Engineer | 2026-04-14
+canonical | https://boards.greenhouse.io/ezcaterinc/jobs/4168874007 | ezCater | Senior Technical Analyst, Product Analytics | 2026-04-14
+# 2026-04-14 run — Lever candidates (403, could not fully evaluate)
+fingerprint | aledade::senior product analyst::remote | Aledade | Senior Product Analyst | 2026-04-14
+fingerprint | huckleberry labs::senior product analyst growth::remote | Huckleberry Labs | Senior Product Analyst, Growth | 2026-04-14
+fingerprint | owner::analytics engineer gtm::remote | Owner | Analytics Engineer, GTM | 2026-04-14 | FAIL: score 64/100 — Sigma BI not in candidate profile (required tool), dbt proficient vs expert-level required, GTM domain mismatch (quota tracking/revenue attribution outside candidate background) [entry recovered 2026-05-15 — original evaluation incomplete due to context loss]
+fingerprint | luxury presence::senior analytics engineer::us remote | Luxury Presence | Senior Analytics Engineer (US) | 2026-04-14
+# 2026-04-17 run — Passed deep evaluation (result files written)
+canonical | https://builtin.com/job/data-analyst-product/8760785 | GitLab | Data Analyst, Product | 2026-04-17
+canonical | https://www.linkedin.com/jobs/view/staff-performance-data-analyst-at-hack-the-box-4402149206 | Hack The Box | Staff Performance Data Analyst | 2026-04-17
+# 2026-04-17 run — Failed deep evaluation
+canonical | https://builtin.com/job/senior-analytics-engineer/7926681 | Nextdoor | Senior/Staff Analytics Engineer, Monetization | 2026-04-17
+canonical | https://builtin.com/job/founding-analytics-engineer/9072433 | Ambrook | Founding Analytics Engineer | 2026-04-17
+canonical | https://builtin.com/job/gtm-analytics-engineer/9083108 | Limble CMMS | GTM Analytics Engineer | 2026-04-17
+canonical | https://builtin.com/job/senior-data-analyst-analytics-engineering/8574061 | Pearl Health | Senior Data Analyst, Analytics Engineering | 2026-04-17
+canonical | https://builtin.com/job/senior-staff-product-analyst/6621662 | Ethos | Principal Product Analyst | 2026-04-17
+canonical | https://builtin.com/job/staff-analytics-engineer-us-remote/8923448 | Luxury Presence | Staff Analytics Engineer | 2026-04-17
+canonical | https://www.linkedin.com/jobs/view/senior-data-analyst-remote-at-progressive-leasing-4398656076 | Progressive Leasing | Senior Data Analyst | 2026-04-17
+canonical | https://builtin.com/job/senior-data-analyst-e-i-affordability-remote/9088939 | Optum | Senior Data Analyst, E&I Affordability | 2026-04-17
+canonical | https://builtin.com/job/finance-template/9061888 | Upstart | Principal Product Analyst | 2026-04-17
+canonical | https://www.simplyhired.com/job/KXrdeyyB8BQUC-gxsIsVulKT-XR77CsxKXuJjTjruPIcyczRR_H4oQ | 59 Pines | Product Analyst (Growth & Opportunity) | 2026-04-17
+canonical | https://builtin.com/job/sr-product-analyst-s4-public-cloud/8169067 | NBCUniversal | Sr Product Analyst, S4 Public Cloud (SAP role) | 2026-04-17
+# 2026-04-17 run — First-pass rejections (salary below floor)
+canonical | https://builtin.com/job/senior-data-analyst-risk-adjustment/9083855 | Clover Health | Senior Data Analyst, Risk Adjustment | 2026-04-17
+canonical | https://builtin.com/job/sr-data-analyst/9075834 | Dynatrace | Sr Data Analyst | 2026-04-17
+canonical | https://builtin.com/job/senior-product-analyst/9034300 | A Place for Mom | Senior Product Analyst | 2026-04-17
+canonical | https://builtin.com/job/senior-data-analyst-technical-lead/8823268 | Recidiviz | Senior Data Analyst (Technical Lead) | 2026-04-17
+canonical | https://www.simplyhired.com/job/eriNBlrTLlPo-WXqf9LgQtQpOtU6jfemS7nhSaKKOjkLfPCvpCxOeg | FreedomCare | Senior Data Analyst | 2026-04-17
+canonical | https://www.simplyhired.com/job/qZAuk7-5x_SZ3EcQlb5hw7ZfbLUwH3dX9QQkQr4HvUiX1x0fDSww0Q | Astrana Health | Analytics Engineer | 2026-04-17
+canonical | https://www.simplyhired.com/job/PWNY3cOAlhDg4Z1A7FcZxCMXWDtRfLqInR-BphW64fUIYy4yH4srxg | Imagine Pediatrics | Senior BI Analyst | 2026-04-17
+canonical | https://www.linkedin.com/jobs/view/senior-data-analyst-product-support-at-bullhorn-4403145004 | Bullhorn | Senior Data Analyst, Product Support | 2026-04-17
+# 2026-04-17 run — First-pass rejections (wrong title/seniority/role type)
+canonical | https://builtin.com/job/lead-gtm-analytics-engineer/8840937 | DigiCert | Lead GTM Analytics Engineer | 2026-04-17
+# 2026-04-17 run — First-pass rejections (avoided industry)
+canonical | https://builtin.com/job/product-analyst-solana/9055274 | P2P.org | Product Analyst (Solana) | 2026-04-17
+# 2026-04-17 run — Greenhouse postings returned listing page (likely closed)
+canonical | https://boards.greenhouse.io/grafanalabs/jobs/5850010004 | Grafana Labs | Senior Analytics Engineer | 2026-04-17
+canonical | https://boards.greenhouse.io/loyal/jobs/4366160004 | Loyal | Data Analyst (removed) | 2026-04-17
+canonical | https://boards.greenhouse.io/idme/jobs/5083001003 | ID.me | Data Analyst (removed) | 2026-04-17
+# 2026-04-17 run — Lever candidates (403, could not fully evaluate)
+fingerprint | super.com::senior analytics engineer::remote | Super.com | Senior Analytics Engineer | 2026-04-17
+fingerprint | ollie::data analyst retention::us east | Ollie | Data Analyst, Retention | 2026-04-17
+fingerprint | morning brew::data analytics engineer::remote | Morning Brew | Data & Analytics Engineer | 2026-04-17
+fingerprint | gurobi::senior data analytics engineer::us remote | Gurobi Optimization | Senior Data & Analytics Engineer | 2026-04-17
+# 2026-04-20 run — Passed deep evaluation (result files written)
+canonical | https://builtin.com/job/senior-data-analyst/9070755 | Veeam | Senior Data Analyst | 2026-04-20
+canonical | https://builtin.com/job/data-analytics-engineer/9103318 | Google Fiber | Data Analytics Engineer | 2026-04-20
+# 2026-04-20 run — Failed deep evaluation
+canonical | https://www.linkedin.com/jobs/view/senior-analytics-engineer-at-seed-health-4380983845 | Seed Health | Senior Analytics Engineer | 2026-04-20
+canonical | https://www.linkedin.com/jobs/view/senior-analytics-engineer-at-pandadoc-4367149734 | PandaDoc | Senior Analytics Engineer | 2026-04-20
+canonical | https://www.linkedin.com/jobs/view/analytics-engineer-at-sardine-4395382862 | Sardine | Analytics Engineer | 2026-04-20
+canonical | https://builtin.com/job/data-product-analyst-signals/9078538 | YipitData | Data Product Analyst, Signals | 2026-04-20
+canonical | https://builtin.com/job/senior-data-analyst/8856492 | Connexus Credit Union | Senior Data Analyst | 2026-04-20
+canonical | https://www.linkedin.com/jobs/view/analytics-engineer-at-terra-4401785077 | Terra | Analytics Engineer | 2026-04-20
+# 2026-04-20 run — First-pass rejections (salary below floor)
+canonical | https://builtin.com/job/senior-data-analyst/9100599 | Fresenius Kabi | Senior Data Analyst | 2026-04-20
+canonical | https://www.linkedin.com/jobs/view/senior-data-analyst-at-zest-ai-4331940826 | Zest AI | Senior Data Analyst | 2026-04-20
+canonical | https://builtin.com/job/senior-data-analyst-product-finance/8590863 | Lead Bank | Senior Data Analyst, Product Finance | 2026-04-20
+canonical | https://builtin.com/job/product-data-analyst/9094149 | World Education Services | Product Data Analyst | 2026-04-20
+# 2026-04-20 run — First-pass rejections (wrong title/hybrid/other)
+canonical | https://builtin.com/job/sr-data-analyst-hybrid-office-remote/9094340 | Optum | Sr. Data Analyst (Hybrid) | 2026-04-20
+# 2026-04-20 run — Greenhouse postings returned listing page (likely closed)
+canonical | https://boards.greenhouse.io/shopltk/jobs/5324822003 | LTK USA | Senior Product Data Analyst | 2026-04-20
+# 2026-04-20 run — Lever candidates (403, could not fully evaluate)
+fingerprint | hipcamp::product analyst::remote | Hipcamp | Product Analyst | 2026-04-20
+fingerprint | dataplor::product analyst::remote | dataplor | Product Analyst | 2026-04-20
+fingerprint | selfbook::product analyst::remote | Selfbook | Product Analyst | 2026-04-20
+fingerprint | ezcater::senior analyst product::remote | ezCater | Senior Analyst, Product | 2026-04-20
+# 2026-04-22 run — No candidates passed deep evaluation
+# 2026-04-22 run — Failed deep evaluation
+canonical | https://builtin.com/job/senior-product-analyst/8164357 | Instrumentl | Senior Product Analyst | 2026-04-22
+canonical | https://builtin.com/job/analytics-engineer/8946719 | Ontic | Analytics Engineer | 2026-04-22
+canonical | https://www.simplyhired.com/job/_Lg1v3sPAongj7sCT51XB31RVnM9o55jOrMHdzjOljJx8BrN20AwGg | Omada Health | Senior Data Analyst, Product Analytics (Fixed Term) | 2026-04-22
+canonical | https://www.linkedin.com/jobs/view/analytics-engineer-at-loop-4401671994 | Loop | Analytics Engineer | 2026-04-22
+# 2026-04-22 run — First-pass rejections (salary below floor)
+canonical | https://www.linkedin.com/jobs/view/analytics-engineer-at-iheartmedia-4401772868 | iHeartMedia | Analytics Engineer | 2026-04-22
+canonical | https://www.linkedin.com/jobs/view/analytics-engineer-at-seeq-corporation-4397513693 | Seeq Corporation | Analytics Engineer | 2026-04-22
+canonical | https://builtin.com/job/senior-data-analyst/7286629 | MJH Life Sciences | Senior Data Analyst | 2026-04-22
+# 2026-04-22 run — Greenhouse postings returned listing page (likely closed)
+canonical | https://boards.greenhouse.io/missionlane/jobs/5949678002 | Mission Lane | Senior Data Analyst (removed) | 2026-04-22
+# 2026-04-22 run — Lever candidates (403, could not fully evaluate)
+fingerprint | owner::senior product analyst::remote | Owner | Senior Product Analyst | 2026-04-22
+fingerprint | outreach::senior analytics engineer::us remote | Outreach | Senior Analytics Engineer | 2026-04-22
+fingerprint | highlevel::senior analytics engineer product::remote | HighLevel | Senior Analytics Engineer, Product & Customer | 2026-04-22
+fingerprint | greenlight::data analyst::remote | Greenlight Financial Technology | Data Analyst | 2026-04-22
+fingerprint | commonlit::data analyst::remote | CommonLit | Data Analyst | 2026-04-22
+# 2026-04-22 run (expanded queries) — Passed deep evaluation (result files written)
+canonical | https://www.linkedin.com/jobs/view/data-analyst-at-stripe-4402666521 | Stripe | Data Analyst | 2026-04-22
+canonical | https://www.linkedin.com/jobs/view/principal-gtm-analyst-at-huntress-4404868043 | Huntress | Principal GTM Analyst | 2026-04-22
+canonical | https://builtin.com/job/business-intelligence-analyst-1/8912690 | Chegg | Business Intelligence Analyst 1 | 2026-04-22
+# 2026-04-22 run (expanded queries) — Failed deep evaluation
+canonical | https://www.linkedin.com/jobs/view/senior-analyst-gtm-analytics-at-vanta-4382491291 | Vanta | Senior Analyst, GTM Analytics | 2026-04-22
+canonical | https://builtin.com/job/staff-data-analyst-servicing/8957023 | Upstart | Staff Data Analyst, Servicing | 2026-04-22
+canonical | https://builtin.com/job/staff-data-analyst/9044506 | Boulevard | Staff Data Analyst | 2026-04-22
+canonical | https://builtin.com/job/sr-bi-analyst/8417198 | Jabil | SR. BI Analyst | 2026-04-22
+# 2026-04-22 run (expanded queries) — First-pass rejections (salary below floor)
+canonical | https://www.linkedin.com/jobs/view/senior-visualization-developer-at-healthequity-4394721788 | HealthEquity | Senior Visualization Developer | 2026-04-22
+canonical | https://www.linkedin.com/jobs/view/sr-analyst-growth-analytics-at-shutterfly-4375630256 | Shutterfly | Sr. Analyst, Growth Analytics | 2026-04-22
+canonical | https://www.linkedin.com/jobs/view/data-analyst-sql-excel-tableau-power-bi-with-salesforce-at-assistrx-4389225933 | AssistRx | Data Analyst | 2026-04-22
+canonical | https://www.linkedin.com/jobs/view/sr-analyst-insights-at-elevate-4389038520 | Elevate | Sr. Analyst, Insights | 2026-04-22
+canonical | https://builtin.com/job/gtm-data-automation-analyst-remote/8725322 | CrowdStrike | GTM Data & Automation Analyst | 2026-04-22
+# 2026-04-22 run (expanded queries) — First-pass rejections (wrong role/requirements)
+canonical | https://builtin.com/job/clinical-data-analyst/8829683 | Pager Health | Clinical Data Analyst (10+ years req) | 2026-04-22
+canonical | https://builtin.com/job/staff-detection-engineer/6979743 | Dragos | Staff Analytics Engineer (cybersecurity role) | 2026-04-22
+canonical | https://builtin.com/job/analytics-engineer-iii/9104853 | Sovos | Analytics Engineer III (dbt + finance req) | 2026-04-22
+canonical | https://www.simplyhired.com/job/n0S2tA8PEIRvDDrpPSJestBQSmk1weLS9AnE173-i6CAAfODhqluQQ | WorkWave | Senior Data Analytics Engineer (dbt + Master's req) | 2026-04-22
+canonical | https://builtin.com/job/principal-ai-data-analyst-remote-or-hybrid-mn-or-dc/8810612 | Optum | Principal AI Data Analyst (AI/DevOps role) | 2026-04-22
+canonical | https://www.linkedin.com/jobs/view/senior-analytics-engineer-at-mx-4401985138 | MX | Senior Analytics Engineer (not remote, dbt req) | 2026-04-22
+canonical | https://builtin.com/job/senior-data-analyst/8870775 | OneMagnify | Senior Data Analyst (AWS req, no salary) | 2026-04-22
+canonical | https://builtin.com/job/data-analyst/9108381 | Coframe | Data Analyst (product analytics tools gap) | 2026-04-22
+canonical | https://www.linkedin.com/jobs/view/sr-analyst-business-intelligence-at-viral-nation-4404309768 | Viral Nation | Sr. Analyst, BI (no salary, marketing agency) | 2026-04-22
+# 2026-04-22 run (expanded queries) — Postings closed/removed
+canonical | https://boards.greenhouse.io/dagsterlabs/jobs/6305844003 | Dagster Labs | GTM Data Analyst (removed) | 2026-04-22
+canonical | https://boards.greenhouse.io/openly/jobs/4340737005 | Openly | Senior BI Analyst (removed) | 2026-04-22
+canonical | https://boards.greenhouse.io/apolloio/jobs/4775373004 | Apollo.io | Sr. BI Analyst (removed) | 2026-04-22
+canonical | https://boards.greenhouse.io/tubitv/jobs/5966867 | Tubi | BI Analyst (removed) | 2026-04-22
+canonical | https://boards.greenhouse.io/samsara/jobs/7514890 | Samsara | Sr. Analyst GTM Business Ops (removed) | 2026-04-22
+canonical | https://boards.greenhouse.io/twilio/jobs/3059610 | Twilio | Sr. Analyst GTM Analytics (removed) | 2026-04-22
+canonical | https://boards.greenhouse.io/wizinc/jobs/4007051006 | Wiz | GTM BI Analyst (removed) | 2026-04-22
+canonical | https://boards.greenhouse.io/embed/job_app?token=7757162002 | Expel | GTM Analyst (404) | 2026-04-22
+canonical | https://boards.greenhouse.io/weedmaps77/jobs/7479799002 | Weedmaps | Product Analyst (removed) | 2026-04-22
+# 2026-04-22 run (expanded queries) — Lever candidates (403, could not fully evaluate)
+fingerprint | ezcater::lead analyst product::remote | ezCater | Lead Analyst, Product | 2026-04-22
+fingerprint | bellhop::business intelligence analyst::remote | Bellhop | Business Intelligence Analyst | 2026-04-22
+fingerprint | rainfocus::business intelligence analyst::remote | RainFocus | Business Intelligence Analyst | 2026-04-22
+fingerprint | nielsen::senior business intelligence analyst::remote | Nielsen | Senior Business Intelligence Analyst | 2026-04-22
+# 2026-04-22 run (marketing analyst queries) — Passed deep evaluation (result files written)
+canonical | https://www.linkedin.com/jobs/view/senior-marketing-analyst-at-yelp-4393259029 | Yelp | Senior Marketing Analyst | 2026-04-22
+canonical | https://jobs.lever.co/textnow/275ad918-3c1d-4c43-9801-1f45c7acd309 | TextNow | Growth Marketing Analyst | 2026-04-22
+# 2026-04-22 run (marketing analyst queries) — Failed deep evaluation
+canonical | https://builtin.com/job/senior-marketing-data-analyst/9055372 | AfterShip | Senior Marketing Data Analyst (Heap/Amplitude req) | 2026-04-22
+canonical | https://builtin.com/job/senior-marketing-analyst/8708555 | Vanta | Senior Marketing Analyst (9+ years req) | 2026-04-22
+# 2026-04-22 run (marketing analyst queries) — First-pass rejections
+canonical | https://builtin.com/job/data-analyst-iv-marketing-analytics-digital-insights/8978728 | Vericast | Data Analyst IV (10+ years + Master's req) | 2026-04-22
+canonical | https://builtin.com/job/senior-marketing-analyst-capital-one-software-remote/8369297 | Capital One | Senior Marketing Analyst (people mgmt req) | 2026-04-22
+canonical | https://builtin.com/job/sr-marketing-analyst/8594061 | Dynatrace | Sr. Web Analyst Marketing ($91-125K) | 2026-04-22
+canonical | https://builtin.com/job/senior-digital-marketing-analyst/8027956 | Highmark Health | Senior Digital Marketing Analyst ($73-117K) | 2026-04-22
+canonical | https://builtin.com/job/senior-analyst-marketing-analytics-insights-remote/8195893 | Justworks | Senior Analyst Marketing Analytics ($101-112K) | 2026-04-22
+canonical | https://builtin.com/job/junior-marketing-analyst/8233843 | SmartFinancial | Junior Marketing Analyst | 2026-04-22
+canonical | https://builtin.com/job/senior-analyst-marketing-analytics-remote/9120921 | Stryker | Senior Analyst Marketing Analytics ($70-90K) | 2026-04-22
+canonical | https://builtin.com/job/sr-marketing-data-analyst-checking-deposits/9028503 | Citizens | Sr Marketing Data Analyst ($110-135K) | 2026-04-22
+canonical | https://builtin.com/job/marketing-data-analyst-accolades/8432661 | Forbes | Marketing Data Analyst ($85-90K) | 2026-04-22
+# 2026-04-27 run — Passed deep evaluation (result files written)
+canonical | https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Senior-Business-Intelligence-Analyst_P750075-2 | Zillow | Senior BI Analyst, Preferred Strategy & Insights | 2026-04-27
+canonical | https://job-boards.greenhouse.io/smarterdx/jobs/4775599007 | SmarterDx | Senior Product Analyst | 2026-04-27
+canonical | https://jobs.ashbyhq.com/ClassDojo/0aa8d535-882e-42dd-bf87-49ad9714e361 | ClassDojo | Staff Analytics Engineer | 2026-04-27
+canonical | https://job-boards.greenhouse.io/attentive/jobs/4118958009 | Attentive | Senior Product Analyst, Strategy and Operations | 2026-04-27
+jobboard | https://www.linkedin.com/jobs/view/senior-business-intelligence-analyst-product-at-hone-health-4397345384 | Hone Health | Senior BI Analyst, Product | 2026-04-27
+# 2026-04-27 run — Failed deep evaluation
+canonical | https://jobs.elastic.co/jobs?gh_jid=7830298 | Elastic | Principal Analytics Engineer (9yr req, deep dbt) | 2026-04-27
+canonical | https://jobs.lever.co/xsolla/d5e8a645-f8e1-490f-8280-a6a183aae529 | Xsolla | Senior Data Analyst (Mixpanel/Amplitude req) | 2026-04-27
+canonical | https://workhuman.wd1.myworkdayjobs.com/WorkhumanCareers/job/Framingham-Massachusetts/Principal-Data-Analyst---Pricing_R3070 | Workhuman | Principal Data Analyst Pricing (hybrid onsite) | 2026-04-27
+canonical | https://job-boards.greenhouse.io/alphasense/jobs/8427482002 | AlphaSense | Principal Marketing Analyst (GA4/Marketo req) | 2026-04-27
+canonical | https://jobs.gem.com/biorender/am9icG9zdDreILRPEebYmXwjg948_I4l | BioRender | Senior/Staff Marketing Data Analyst (9yr, CA only) | 2026-04-27
+canonical | https://jobs.ashbyhq.com/runway-ml/b3b7f8e1-c252-4f61-baaf-c7ab6bfa9572 | Runway | Staff Product Analytics Engineer (data eng role) | 2026-04-27
+jobboard | https://www.linkedin.com/jobs/view/staff-analytics-engineer-at-airbnb-4387657388 | Airbnb | Staff Analytics Engineer (9+ yr, Spark expertise) | 2026-04-27
+jobboard | https://www.linkedin.com/jobs/view/business-intelligence-analyst-analytics-engineer-hybrid-usa-remote-at-turnitin-4388108320 | Turnitin | BI Analyst / Analytics Engineer Hybrid (72%, dbt migration) | 2026-04-27
+canonical | https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Mahwah-New-Jersey/Sr-Data-Analyst--Remote_R562759 | Inari Medical/Stryker | Sr Data Analyst (sales ops, 20% travel) | 2026-04-27
+canonical | https://jobs.ashbyhq.com/givebutter/93a5cfa2-bf70-41d0-8227-d95f52b89778 | Givebutter | Analytics Engineer (Snowflake req, hub-only, 70%) | 2026-04-27
+# 2026-04-27 run — First-pass rejections (salary below floor)
+canonical | https://builtin.com/job/senior-data-analyst/9156380 | Canopy | Senior Data Analyst ($97-132K) | 2026-04-27
+canonical | https://builtin.com/job/sr-revenue-operations-analyst-data-systems/9153569 | Pluralsight | Sr Revenue Ops Analyst ($99-130K) | 2026-04-27
+canonical | https://builtin.com/job/senior-business-intelligence-analyst/8991506 | Movable Ink | Senior BI Analyst ($105-125K) | 2026-04-27
+canonical | https://builtin.com/job/senior-bi-analyst/9131078 | WeTravel | Senior BI Analyst ($85-100K) | 2026-04-27
+# 2026-04-27 run — First-pass rejections (wrong title/seniority/role type)
+canonical | https://builtin.com/job/lead-analytics-engineer/8398786 | HighLevel | Lead Analytics Engineer ($144-201K) | 2026-04-27
+canonical | https://builtin.com/job/lead-data-analyst/8930339 | Bally's Interactive | Lead Data Analyst ($100-140K) | 2026-04-27
+canonical | https://builtin.com/job/product-analytics-engineer/8858032 | XBOW | Product Analytics Engineer ($180-260K, eng role) | 2026-04-27
+canonical | https://builtin.com/job/staff-product-analytics-engineer/8993446 | Runway | Staff Product Analytics Engineer ($200-260K) | 2026-04-27
+# 2026-04-27 run — Greenhouse postings (recycled/closed)
+canonical | https://boards.greenhouse.io/twilio/jobs/4041029 | Twilio | Senior Data Analyst GTM Strategy | 2026-04-27
+canonical | https://boards.greenhouse.io/twilio/jobs/4332617 | Twilio | GTM Intelligence Senior Planning Analyst | 2026-04-27
+canonical | https://boards.greenhouse.io/twilio/jobs/3200534 | Twilio | GTM Strategy Analyst | 2026-04-27
+canonical | https://boards.greenhouse.io/remotecom/jobs/6031394003 | Remote.com | Team Lead Analytics Engineering | 2026-04-27
+canonical | https://boards.greenhouse.io/coinbase/jobs/7532597 | Coinbase | Senior Analytics Engineer | 2026-04-27
+canonical | https://boards.greenhouse.io/splice/jobs/7215554002 | Splice | Lead BI Analyst | 2026-04-27
+# 2026-04-27 run — Lever candidates (403, could not fully evaluate)
+fingerprint | spruce::senior product analyst::remote | Spruce | Senior Product Analyst | 2026-04-27
+fingerprint | leadership connect::gtm analyst::remote | Leadership Connect | Go-To-Market (GTM) Analyst | 2026-04-27
+# 2026-04-27 run — New listings noted (no salary or insufficient info)
+canonical | https://builtin.com/job/senior-data-analyst/8028139 | Ruby Labs | Senior Data Analyst (no salary) | 2026-04-27
+canonical | https://builtin.com/job/senior-data-analyst/8669428 | Renmoney | Senior Data Analyst (no salary) | 2026-04-27
+canonical | https://builtin.com/job/bi-analyst/9167102 | Nebius | BI Analyst (no salary) | 2026-04-27
+canonical | https://builtin.com/job/senior-analytics-engineer/8917145 | Octus | Senior Analytics Engineer (no salary) | 2026-04-27
+canonical | https://builtin.com/job/senior-staff-marketing-data-analyst-enterprise-growth/8876519 | BioRender | Senior/Staff Marketing Data Analyst | 2026-04-27
+# 2026-04-29 run — Passed deep evaluation (result files written)
+canonical | https://jobs.ashbyhq.com/substack/3654de54-7a95-4f6a-8d70-75a5d2d54bbf | Substack | Product Analyst | 2026-04-29
+canonical | https://jobs.lever.co/aofl/734e76a3-f114-48c3-8ad1-da98cbd92b22 | Age of Learning | Senior Product Analyst | 2026-04-29
+canonical | https://job-boards.greenhouse.io/future/jobs/4683274005 | Future | Senior/Staff Data Analyst | 2026-04-29
+# 2026-04-29 run — Failed deep evaluation
+canonical | https://builtin.com/job/business-intelligence-and-analytics-engineer/7456415 | BetterHelp | Senior BI & Analytics Engineer (dbt core function) | 2026-04-29
+canonical | https://builtin.com/job/senior-data-analyst-xsolla-ads-rewards/8658318 | Xsolla | Senior DA Ads & Rewards (Mixpanel/Amplitude req) | 2026-04-29
+canonical | https://builtin.com/job/full-stack-analytics-engineer-ii/9184456 | Aledade | Full-Stack Analytics Engineer II (dbt core + GenAI req) | 2026-04-29
+canonical | https://builtin.com/job/analytics-engineer/2269156 | Metabase | Analytics Engineer (no salary, heavy coding) | 2026-04-29
+fingerprint | cornerstone ondemand::senior data analyst::remote | Cornerstone OnDemand | Senior DA, Customer Retention (Snowflake Cortex, ~68%) | 2026-04-29
+# 2026-04-29 run — First-pass rejections (salary below floor)
+canonical | https://builtin.com/job/senior-data-analyst-business-intelligence/9195876 | RevolutionParts | Senior DA, BI ($90-125K) | 2026-04-29
+canonical | https://builtin.com/job/senior-data-analyst/9195028 | Interra Health | Senior DA ($100-130K) | 2026-04-29
+canonical | https://builtin.com/job/product-data-analyst/8955736 | NMI | Product Data Analyst ($90-120K) | 2026-04-29
+canonical | https://builtin.com/job/sr-product-analyst/8463308 | Fandom | Sr Product Analyst ($71-130K) | 2026-04-29
+canonical | https://builtin.com/job/analytics-engineer/8011098 | Socure | Analytics Engineer ($100-125K) | 2026-04-29
+fingerprint | classpass::senior business analyst pricing::us | ClassPass | Senior BA Pricing & Inventory ($99-133K) | 2026-04-29
+# 2026-04-29 run — First-pass rejections (wrong title/seniority/requirements/role type)
+canonical | https://builtin.com/job/senior-data-analyst/9174724 | thatgamecompany | Senior DA (9 years required) | 2026-04-29
+canonical | https://builtin.com/job/senior-business-data-analyst-remote/9189837 | RTX | Senior Business DA (security clearance req) | 2026-04-29
+canonical | https://builtin.com/job/sr-analytics-engineer/8910605 | Seeq | Analytics Engineer (industrial engineering role) | 2026-04-29
+canonical | https://builtin.com/job/analytics-engineer/7802186 | Cognition | Analytics Engineer (SF/NYC location req) | 2026-04-29
+fingerprint | ascensus::senior data analytics translator::remote | Ascensus | Senior Data Analytics Translator (retirement industry req) | 2026-04-29
+fingerprint | wiz::senior gtm strategy planning analyst::us | Wiz | Senior GTM Strategy Analyst (PM/ops role) | 2026-04-29
+# 2026-04-29 run — Postings closed
+canonical | https://boards.greenhouse.io/embed/job_app?token=7239473 | Toast | Senior BI Analyst Billing (404 - closed) | 2026-04-29
+# 2026-04-29 run — Greenhouse/Lever recycled (already reviewed or closed)
+canonical | https://builtin.com/job/principal-analytics-engineer/9152832 | Elastic | Principal Analytics Engineer (repost of prior rejection) | 2026-04-29
+canonical | https://builtin.com/job/senior-business-intelligence-analyst/9160999 | Zillow | Senior BI Analyst (repost of prior 82% pass) | 2026-04-29
+canonical | https://builtin.com/job/senior-business-intelligence-analyst/9146872 | Zillow | Senior BI Analyst (repost of prior 82% pass) | 2026-04-29
+# 2026-05-02 run — First-pass rejections (salary below floor)
+canonical | https://www.linkedin.com/jobs/view/senior-data-analyst-at-u-s-news-world-report-4404110929 | U.S. News & World Report | Senior Data Analyst ($65-85K) | 2026-05-02
+canonical | https://www.linkedin.com/jobs/view/senior-data-analyst-at-ameriflex-4379088353 | Ameriflex | Senior Data Analyst ($75-85K) | 2026-05-02
+canonical | https://www.linkedin.com/jobs/view/senior-data-analyst-at-phase2-4398351537 | Phase2 | Senior Data Analyst ($100-120K) | 2026-05-02
+canonical | https://www.linkedin.com/jobs/view/senior-data-analyst-at-crash-champions-4366225181 | Crash Champions | Senior Data Analyst ($90-120K) | 2026-05-02
+canonical | https://www.linkedin.com/jobs/view/data-analyst-at-seed-health-4404137224 | Seed Health | Data Analyst ($110-130K) | 2026-05-02
+canonical | https://www.linkedin.com/jobs/view/data-analyst-at-recidiviz-4379248286 | Recidiviz | Data Analyst ($97K, entry level) | 2026-05-02
+canonical | https://www.linkedin.com/jobs/view/customer-journey-ai-data-analyst-at-bolt-4404803295 | Bolt | Customer Journey & AI Data Analyst ($90-120K) | 2026-05-02
+canonical | https://www.linkedin.com/jobs/view/product-analyst-at-drfirst-inc-4408738627 | DrFirst | Product Analyst ($80-90K) | 2026-05-02
+canonical | https://www.linkedin.com/jobs/view/business-intelligence-analyst-at-aditude-4402300344 | Aditude | BI Analyst ($85-100K) | 2026-05-02
+canonical | https://www.linkedin.com/jobs/view/business-intelligence-analyst-at-anaconda-inc-4407967111 | Anaconda | BI Analyst ($85-125K) | 2026-05-02
+canonical | https://www.linkedin.com/jobs/view/business-intelligence-analyst-marketing-at-onxmaps-inc-4407307072 | onXmaps | BI Analyst Marketing ($100-117K) | 2026-05-02
+canonical | https://www.linkedin.com/jobs/view/data-analyst-at-celigo-4404119732 | Celigo | Data Analyst ($75-115K) | 2026-05-02
+canonical | https://builtin.com/job/sales-data-analyst-remote/8957102 | Aperia Technologies | Sales Data Analyst ($115-135K) | 2026-05-02
+# 2026-05-02 run — First-pass rejections (wrong seniority/title/location)
+canonical | https://www.linkedin.com/jobs/view/data-analyst-at-xbow-4391497915 | XBOW | Data Analyst (entry level) | 2026-05-02
+canonical | https://www.linkedin.com/jobs/view/marketing-analyst-at-foundation-partners-group-4406624633 | Foundation Partners | Marketing Analyst (associate level) | 2026-05-02
+canonical | https://www.linkedin.com/jobs/view/business-intelligence-analyst-at-the-lifetime-value-co-4351345354 | Lifetime Value Co | BI Analyst (entry level) | 2026-05-02
+canonical | https://builtin.com/job/analyst-marketing-mix-modeling/9229699 | Keen Decision Systems | Analyst MMM (junior, 2yr req) | 2026-05-02
+canonical | https://builtin.com/job/principal-data-analyst-capital-markets/8707541 | Citizens | Principal Data Analyst (principal + hybrid) | 2026-05-02
+canonical | https://builtin.com/job/sr-data-analyst-remote/9142866 | Inari Medical | Sr Data Analyst (junior-skewed 2yr req) | 2026-05-02
+jobboard | https://www.simplyhired.com/job/hcZcfsl5Tglr2zx1Z0AIrqTmKZIHd70FlIEvLnLqzqAB7IycDk1-Ww | Unio Health Partners | Senior Analyst BI (lead/manager, 10yr req) | 2026-05-02
+canonical | https://www.linkedin.com/jobs/view/analytics-engineer-5-ads-at-netflix-4397977852 | Netflix | Analytics Engineer 5 Ads (not remote) | 2026-05-02
+canonical | https://www.linkedin.com/jobs/view/analytics-engineer-5-content-at-netflix-4403265628 | Netflix | Analytics Engineer 5 Content (not remote) | 2026-05-02
+# 2026-05-02 run — Postings closed/expired
+canonical | https://boards.greenhouse.io/remotecom/jobs/5025843003 | Remote.com | Data Analyst (closed) | 2026-05-02
+canonical | https://boards.greenhouse.io/fundraiseup/jobs/4689225005 | Fundraise Up | Product Analyst (closed) | 2026-05-02
+canonical | https://boards.greenhouse.io/owllabs3rd/jobs/4284618004 | Owl Labs | Product Data Analyst (closed) | 2026-05-02
+canonical | https://boards.greenhouse.io/guidepointsecurity/jobs/5146475004 | GuidePoint Security | BI Analyst (closed) | 2026-05-02
+canonical | https://boards.greenhouse.io/myfitnesspal/jobs/6563783 | MyFitnessPal | Data Analytics Engineer III (closed) | 2026-05-02
+jobboard | https://www.simplyhired.com/job/Ps5QIPnGHgLb2Qh1jgwdB_EFmeTK7YKJj5AJWRBFQFeYjh9FYBZlsQ | Lyric | Sr Data Analyst Healthcare Claims (closed) | 2026-05-02
+# 2026-05-02 run — Zillow reposts (already reviewed 2026-04-27)
+jobboard | https://www.linkedin.com/jobs/view/senior-business-intelligence-analyst-at-zillow-4406138021 | Zillow | Senior BI Analyst (repost) | 2026-05-02
+jobboard | https://www.linkedin.com/jobs/view/senior-business-intelligence-analyst-strategic-planning-insights-at-zillow-4406823438 | Zillow | Senior BI Analyst Strategic Planning (repost) | 2026-05-02
+# 2026-05-02 run — Deep evaluation batch (BuiltIn listings)
+canonical | https://builtin.com/job/sr-data-analyst/9216697 | Guild Mortgage | Sr Data Analyst (62% — NoSQL/ITSM/mortgage domain gaps) | 2026-05-02
+canonical | https://builtin.com/job/data-analyst-product/9205429 | Kraken | Data Analyst, Product (88% — PASSED, result written) | 2026-05-02
+canonical | https://builtin.com/job/sr-data-analyst-operations/8965568 | VAST Data | Sr Data Analyst Operations (68% — supply chain domain req, no salary) | 2026-05-02
+canonical | https://builtin.com/job/sr-data-analyst-sales/8965553 | VAST Data | Sr Data Analyst Sales (65% — Salesforce weak, sales domain gap, no salary) | 2026-05-02
+canonical | https://builtin.com/job/senior-product-data-analyst/8965445 | VAST Data | Senior Product Data Analyst (67% — SaaS domain req, no salary) | 2026-05-02
+canonical | https://builtin.com/job/business-intelligence-analyst/9228597 | Veeam | BI Analyst (72% — Tableau Prep + Databricks required but missing) | 2026-05-02
+# 2026-05-02 run — Passed deep evaluation (result files written)
+canonical | https://www.linkedin.com/jobs/view/analytics-engineer-at-calm-4409433281 | Calm | Analytics Engineer (90% — PASSED) | 2026-05-02
+canonical | https://www.linkedin.com/jobs/view/data-analyst-at-pipe-4400449993 | Pipe | Data Analyst (88% — PASSED) | 2026-05-02
+canonical | https://builtin.com/job/analytics-engineer-ii/9203144 | Earnest | Analytics Engineer II (78% — PASSED) | 2026-05-02
+canonical | https://www.linkedin.com/jobs/view/senior-analytics-engineer-at-limetree-4405381483 | Limetree | Senior Analytics Engineer (78% — PASSED) | 2026-05-02
+# 2026-05-02 run — Failed deep evaluation
+canonical | https://www.linkedin.com/jobs/view/senior-data-analyst-at-moneygram-4406732301 | MoneyGram | Senior Data Analyst (72% — no salary, seniority misclass) | 2026-05-02
+canonical | https://www.linkedin.com/jobs/view/senior-data-analyst-finance-accounting-at-zip-co-4384964884 | Zip Co | Senior Data Analyst F&A (78% — NYC pref, not fully remote) | 2026-05-02
+canonical | https://builtin.com/job/sr-data-analyst/9225381 | Kaseya | Sr Data Analyst (74% — base $130K below floor, domain gap) | 2026-05-02
+fingerprint | icon health::senior data analyst::remote | Icon Health | Senior Data Analyst (healthcare domain hard req) | 2026-05-02
+fingerprint | karoo health::sr data analyst::remote | Karoo Health | Sr Data Analyst (healthcare domain hard req) | 2026-05-02
+canonical | https://www.linkedin.com/jobs/view/senior-analytics-engineer-at-victory-live-4403249465 | Victory Live | Senior Analytics Engineer (72% — LLM/AI scope, Snowflake gap) | 2026-05-02
+canonical | https://www.linkedin.com/jobs/view/senior-analytics-engineer-at-alpaca-4405254767 | Alpaca | Senior Analytics Engineer (70% — dbt expert gap, fintech domain) | 2026-05-02
+
+# 2026-05-05 run — First-pass rejections
+jobboard | https://www.linkedin.com/jobs/view/4391959555 | Netflix | Analytics Engineer 5, Ads Reporting (not remote) | 2026-05-05
+jobboard | https://www.linkedin.com/jobs/view/4390054231 | Netflix | Performance Senior Analyst, NCX (not remote) | 2026-05-05
+jobboard | https://www.linkedin.com/jobs/view/4381771835 | Netflix | Analytics Engineer 5, Ads Revenue Analytics (not remote) | 2026-05-05
+jobboard | https://www.linkedin.com/jobs/view/4401909192 | Netflix | Analytics Engineer 5, Media Science DSE (not remote) | 2026-05-05
+jobboard | https://www.linkedin.com/jobs/view/4410517108 | Brigit | Senior Analytics Engineer (not remote) | 2026-05-05
+jobboard | https://www.linkedin.com/jobs/view/4407532044 | Earnest | Business Analyst II (not remote + salary $131K < floor) | 2026-05-05
+jobboard | https://www.linkedin.com/jobs/view/4399276874 | SimplePractice | Senior Data Analyst, Growth (not remote) | 2026-05-05
+jobboard | https://www.linkedin.com/jobs/view/4403754640 | Canopy | Senior Data Analyst ($132K < $135K floor + hybrid) | 2026-05-05
+jobboard | https://www.linkedin.com/jobs/view/4405156847 | DoseSpot | Senior Data Analyst ($130K < $135K floor) | 2026-05-05
+jobboard | https://www.linkedin.com/jobs/view/4404441391 | QuinStreet | Senior Data Analyst (not remote) | 2026-05-05
+jobboard | https://www.linkedin.com/jobs/view/4402213636 | Verisk | Analytics Engineer (on-site) | 2026-05-05
+jobboard | https://builtin.com/job/staff-analytics-engineer-subledger-platform/9197182 | Affirm | Staff Analytics Engineer (staff seniority) | 2026-05-05
+jobboard | https://builtin.com/job/staff-analytics-engineer/7993757 | Boulevard | Staff Analytics Engineer (staff seniority) | 2026-05-05
+jobboard | https://builtin.com/job/analytics-engineer/8482346 | Rightway | Analytics Engineer ($130K < $135K floor) | 2026-05-05
+jobboard | https://builtin.com/job/data-analyst-reporting-partnerships/9201211 | Doximity | Data Analyst, Reporting (junior level) | 2026-05-05
+jobboard | https://builtin.com/job/data-analyst-revenue-ops/9135748 | HopSkipDrive | Data Analyst Revenue Ops ($110K < $135K floor) | 2026-05-05
+jobboard | https://builtin.com/job/revops-analytics-engineer/9224113 | Lean Layer | RevOps Analytics Engineer ($120K < $135K floor) | 2026-05-05
+jobboard | https://builtin.com/job/product-data-analyst-us-remote/8997973 | First Advantage | Product Data Analyst ($80K < $110K floor + junior) | 2026-05-05
+jobboard | https://builtin.com/job/sr-data-analyst-collateral-data-solutions/9245523 | dv01 | Sr Data Analyst ($130K < $135K floor) | 2026-05-05
+jobboard | https://www.linkedin.com/jobs/view/4385834076 | YipitData | Feeds GTM Analyst B2B (wrong function — sales/solutions) | 2026-05-05
+jobboard | https://www.linkedin.com/jobs/view/4405417397 | WeTravel | Senior BI Analyst (not remote) | 2026-05-05
+jobboard | https://www.linkedin.com/jobs/view/4402972889 | PurposeCare | Analytics Engineer ($110K < $135K floor) | 2026-05-05
+jobboard | https://www.linkedin.com/jobs/view/4396162223 | ClassPass | Senior Business Analyst ($133K < $135K floor) | 2026-05-05
+jobboard | https://builtin.com/job/senior-data-analyst-seo/9244635 | Scorpion | Senior Data Analyst SEO ($110K < $135K floor) | 2026-05-05
+jobboard | https://www.linkedin.com/jobs/view/4396374355 | Yahoo | Analyst, Product Strategy DSP (wrong function) | 2026-05-05
+# Closed/expired
+jobboard | https://jobs.lever.co/canva/d83970f5-a7a5-46c1-9237-d06566dc6618 | Canva | Lead BI Analyst (CLOSED — 403) | 2026-05-05
+jobboard | https://boards.greenhouse.io/leagueinc/jobs/4117144004 | League Inc | Senior Data Analyst (CLOSED — redirects) | 2026-05-05
+jobboard | https://boards.greenhouse.io/nextroll/jobs/6076077002 | NextRoll | Lead BI Analyst (CLOSED — listing removed) | 2026-05-05
+# 2026-05-05 run — Deep eval passes
+jobboard | https://builtin.com/job/data-analyst-business-intelligence/9002892 | Doximity | Data Analyst, BI (85% — PASSED) | 2026-05-05
+jobboard | https://www.linkedin.com/jobs/view/4410074357 | EquipmentShare | BI Analyst (85% — PASSED) | 2026-05-05
+jobboard | https://builtin.com/job/data-analyst/9146519 | Scan.com | Data Analyst (84% — PASSED) | 2026-05-05
+jobboard | https://builtin.com/job/analytics-engineer/8989039 | Arena | Analytics Engineer (82% — PASSED) | 2026-05-05
+jobboard | https://builtin.com/job/product-analyst/8889009 | Littlebird AI | Product Analyst (82% — PASSED) | 2026-05-05
+jobboard | https://www.linkedin.com/jobs/view/4379261518 | Super.com | Senior Data Analyst (80% — PASSED) | 2026-05-05
+# 2026-05-05 run — Deep eval failures
+jobboard | https://www.linkedin.com/jobs/view/4408715544 | Target | Sr Data Analyst (72% — R required, data science scope) | 2026-05-05
+jobboard | https://www.linkedin.com/jobs/view/4401797498 | Synapticure | Staff Data Analyst (48% — 8+ yrs + healthcare domain req) | 2026-05-05
+jobboard | https://builtin.com/job/data-product-analyst/8403318 | Accelerant | Data Product Analyst (REJECT — insurance domain required) | 2026-05-05
+jobboard | https://builtin.com/job/senior-data-analyst-product-engineering-copy/8993965 | Cents | Senior Data Analyst (68% — 7+ yrs + eng velocity metrics req) | 2026-05-05
+canonical | https://careers.toasttab.com/jobs?gh_jid=7746009 | Toast | Principal Product Analytics Engineer (REJECT — 12+ yrs required) | 2026-05-06
+canonical | https://careers.upstart.com/jobs?gh_jid=7819773 | Upstart | Principal Product Analyst (REJECT — 10+ yrs required) | 2026-05-06
+canonical | https://stripe.com/jobs/search?gh_jid=7801457 | Stripe | Staff Data Analyst (REJECT — 10+ yrs required) | 2026-05-06
+canonical | https://job-boards.greenhouse.io/doximity/jobs/7787892 | Doximity | Data Analyst, Reporting Partnerships (REJECT — salary below floor + junior seniority) | 2026-05-06
+canonical | https://jobs.ashbyhq.com/ruby-labs/7973230f-3c90-4aed-902f-5f58131a7a74 | Ruby Labs | Senior Data Analyst (REJECT — CET timezone, non-US) | 2026-05-06
+canonical | https://freedomcare.com/jobs/7595149003 | FreedomCare | Senior Data Analyst (REJECT — salary $120K cap < $135K floor) | 2026-05-06
+canonical | https://job-boards.greenhouse.io/simpluris/jobs/5205474008 | Simpluris | Senior Data Analyst (REJECT — salary $83K cap) | 2026-05-06
+canonical | https://jobs.gem.com/kinetic/am9icG9zdDrgEV9wH_ui0KFjaoF1HPDE | Kinetic | BI Analyst (REJECT — salary $110K cap < $135K floor) | 2026-05-06
+jobboard | https://boards.greenhouse.io/embed/job_app?for=consumertrack&token=4507749005 | GOBankingRates | Digital Product Analyst (REJECT — posting closed, 404) | 2026-05-06
+jobboard | https://www.linkedin.com/jobs/view/4407085621 | brightwheel | GTM Compensation & Planning Analyst (REJECT — salary $120K cap < $135K floor) | 2026-05-06
+jobboard | https://www.linkedin.com/jobs/view/4382500560 | RapidSOS | BI & AI Analyst (REJECT — salary $130K cap < $135K floor) | 2026-05-06
+jobboard | https://www.linkedin.com/jobs/view/4410094309 | A-LIGN | GTM Operations Analyst (REJECT — not analytics-focused, likely on-site) | 2026-05-06
+jobboard | https://boards.greenhouse.io/veriff/jobs/8514899002 | Veriff | Product Analyst (REJECT — JS-rendered, cannot evaluate) | 2026-05-06
+canonical | https://www.mongodb.com/careers/job/?gh_jid=7696633 | MongoDB | Senior Data Analyst (79% — PASS) | 2026-05-06
+canonical | https://careers.upstart.com/jobs?gh_jid=7778782 | Upstart | Staff Data Analyst, Servicing (REJECT — 8+ yrs required) | 2026-05-06
+canonical | https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4841342101 | Veeam | Senior Data Analyst (72% — SaaS domain gap) | 2026-05-06
+canonical | https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4849334101 | Veeam | Business Intelligence Analyst (REJECT — posting closed) | 2026-05-06
+jobboard | https://www.simplyhired.com/job/AXCoH85ZK4m458qFa44xaS_sV_OxC3qPMIZZcoAnPK4PgAFK6fu3qQ | Oscar Health | Senior Analyst, Data Analytics SIU (REJECT — healthcare domain required) | 2026-05-06
+jobboard | https://www.linkedin.com/jobs/view/4405259867 | Coalition | Senior Data Analyst (REJECT — 4+ yrs insurance experience required) | 2026-05-06
+canonical | https://jobs.ashbyhq.com/gamechanger/0cece456-ff2a-4629-b715-17de0f9fe58d | GameChanger | Senior Analytics Engineer (84% — PASS) | 2026-05-06
+canonical | https://jobs.ashbyhq.com/Flock%20Safety/2dce8dfe-26a0-4b6d-9f93-de11d0f5c790 | Flock Safety | Analytics Engineer (82% — PASS) | 2026-05-06
+canonical | https://job-boards.greenhouse.io/axios/jobs/7799102 | Axios | Analytics Engineer (85% — PASS) | 2026-05-06
+canonical | https://job-boards.greenhouse.io/warp/jobs/5828901004 | Warp | Analytics Engineer (72% — 6+ yrs required, below threshold) | 2026-05-06
+canonical | https://job-boards.greenhouse.io/philo/jobs/7750731 | Philo | Sr. Analytics Engineer (62% — 8+ yrs required) | 2026-05-06
+canonical | https://job-boards.greenhouse.io/ethoslife/jobs/7939784002 | Ethos | Principal Product Analyst (58% — 8+ yrs required, causal inference gaps) | 2026-05-06
+canonical | https://job-boards.greenhouse.io/babylist/jobs/5893702004 | Babylist | Senior Product Analyst (68% — 6+ yrs product analytics required) | 2026-05-06
+canonical | https://job-boards.greenhouse.io/hungryroot/jobs/5817057004 | Hungryroot | Senior Product Analyst (REJECT — posting closed) | 2026-05-06
+canonical | https://thrivemarketjobs.com/job_posting.html?id=4105269009 | Thrive Market | Senior Data Analyst, Product (REJECT — posting closed, 404) | 2026-05-06
+canonical | https://jobs.lever.co/additionwealth/87f880a1-ccdd-4cfd-8a28-8da655d435d9 | Addition Wealth | Senior Data Analyst (86% — PASS) | 2026-05-06
+canonical | https://www.comeet.com/jobs/vastdata/43.001/sr_-data-analyst-operations/A3.26A | VAST Data | Sr. Data Analyst, Operations (58% — operations domain required) | 2026-05-06
+canonical | https://www.comeet.com/jobs/vastdata/43.001/sr_-data-analyst-sales/5E.765 | VAST Data | Sr. Data Analyst, Sales (60% — SFDC required, sales domain gap) | 2026-05-06
+fingerprint | cash app::senior growth marketing analyst::united states | Cash App (Block) | Senior Growth Marketing Analyst (REJECT — marketing title, not core analytics) | 2026-05-07
+fingerprint | zillow::data analyst employee service center::remote us | Zillow | Data Analyst, Employee Service Center (42% — Workday/ServiceNow required, HR domain mismatch) | 2026-05-07
+fingerprint | dick's sporting goods::retail media reporting insights analyst::remote | DICK'S Sporting Goods | Retail Media Reporting & Insights Analyst (REJECT — salary $90.9K cap + entry level) | 2026-05-07
+jobboard | https://boards.greenhouse.io/twilio/jobs/3356708 | Twilio | Senior Analyst, GTM Analytics (REJECT — posting closed) | 2026-05-07
+canonical | https://jobs.smartrecruiters.com/NBCUniversal3/744000123729833 | NBCUniversal | Sr. Analytics Engineer, BI (REJECT — hybrid 4 days/week NYC) | 2026-05-07
+canonical | https://mckesson.wd3.myworkdayjobs.com/CoverMyMeds_External_Careers/job/USA-OH-Columbus/Senior-Business-Intelligence-Analyst_JR0146850 | CoverMyMeds | Senior BI Analyst (REJECT — hybrid Columbus OH) | 2026-05-07
+canonical | https://jobs.lever.co/openx/7317553b-55af-4e24-aff5-e620f54f2950 | OpenX | BI Data Analyst (REJECT — salary $110K cap + junior) | 2026-05-07
+jobboard | https://www.linkedin.com/jobs/view/4382485814 | Credible | BI Data Analyst III (REJECT — salary $118.8K cap) | 2026-05-07
+jobboard | https://boards.greenhouse.io/knowbe4/jobs/7609533002 | KnowBe4 | AI Business Analyst (REJECT — posting closed) | 2026-05-07
+jobboard | https://www.linkedin.com/jobs/view/4410748852 | Adelaide | BI Engineer (REJECT — salary $100K cap + entry level) | 2026-05-07
+jobboard | https://boards.greenhouse.io/xapo61/jobs/5839033003 | Xapo Bank | Senior Data Analyst (REJECT — posting closed) | 2026-05-07
+canonical | https://jobs.ashbyhq.com/assured/cf1c1e3a-5d09-49a3-a4c4-6cacf7264aec | Assured | Staff Product Analyst (74% — TypeScript/Mixpanel SDK gap, below threshold) | 2026-05-07
+fingerprint | socure::gtm operations analyst::remote | Socure | GTM Operations Analyst (22% — sales operations role, not analytics) | 2026-05-07
+fingerprint | medallion::business analyst::san francisco | Medallion | Business Analyst (82% — PASS, verify remote policy) | 2026-05-07
+fingerprint | engine::senior data analyst revops::denver | Engine | Senior Data Analyst, RevOps (72% — RevOps domain gap, Denver hybrid) | 2026-05-07
+fingerprint | octave::senior enterprise data analyst::remote | Octave | Senior Enterprise Data Analyst (66% — ThoughtSpot specialist role) | 2026-05-07
+fingerprint | carhartt::sr digital data analyst::dearborn mi | Carhartt | Sr. Digital Data Analyst (68% — Adobe Analytics implementation specialist) | 2026-05-07
+fingerprint | omada health::senior data analyst product analytics::remote us | Omada Health | Senior Data Analyst, Product Analytics (75% — PASS, fixed-term 10mo, Amplitude gap) | 2026-05-07
+fingerprint | lyra health::senior data analyst::remote | Lyra Health | Sr. Data Analyst | 2026-05-08 | REJECT: likely repost of existing entry (4395725932)
+jobboard | https://www.linkedin.com/jobs/view/4382719752 | CrowdStrike | GTM Data & Automation Analyst | 2026-05-08 | REJECT: entry level seniority, requires Master's CS + LLM exp, wrong function
+jobboard | https://www.linkedin.com/jobs/view/4404436586 | Teleion | BI Data Analyst | 2026-05-08 | REJECT: $100K-$130K below $135K floor (private), requires 8-10yr exp
+jobboard | https://www.linkedin.com/jobs/view/4409939102 | VITL | Business Analyst | 2026-05-08 | REJECT: $100K-$115K below floor, not remote (Vermont), healthcare IT/FHIR domain
+jobboard | https://www.linkedin.com/jobs/view/4412144034 | TechFlow | Data Analyst | 2026-05-08 | REJECT: associate level, government contract
+jobboard | https://www.linkedin.com/jobs/view/4409344380 | Haystack | Data Analyst | 2026-05-08 | REJECT: requires TS/SCI security clearance
+jobboard | https://www.linkedin.com/jobs/view/4408883721 | Analytica | Data Analyst | 2026-05-08 | REJECT: requires SECRET clearance, on-site Bethesda MD
+jobboard | https://www.linkedin.com/jobs/view/4400681272 | CeriFi | Go-To-Market Analyst | 2026-05-08 | REJECT: not remote (Boynton Beach FL)
+jobboard | https://www.linkedin.com/jobs/view/4411281001 | Inner Balance | Senior Marketing Analyst | 2026-05-08 | REJECT: unknown private co, no salary listed, niche paid media focus
+jobboard | https://builtin.com/job/sr-analytics-engineer-business-intelligence/9274581 | NBCUniversal | Sr Analytics Engineer BI | 2026-05-08 | REJECT: hybrid 4 days/week in-office NYC
+jobboard | https://builtin.com/job/data-analyst-hybrid/7888219 | Doximity | Data Analyst (Hybrid) | 2026-05-08 | REJECT: hybrid 3 days/week in SF
+jobboard | https://builtin.com/job/data-analyst/7973865 | Doximity | Data Analyst | 2026-05-08 | REJECT: junior seniority level (0-2yr exp)
+jobboard | https://builtin.com/job/associate-analytics-engineer/9293729 | Spotify | Associate Analytics Engineer | 2026-05-08 | REJECT: junior/associate (0-2yr exp)
+jobboard | https://builtin.com/job/lead-data-analyst/9296996 | G2 | Lead Data Analyst | 2026-05-08 | REJECT: people management duties, comp $119K-$135K borderline
+jobboard | https://job-boards.greenhouse.io/gitlab/jobs/6955623002 | GitLab | Senior Analyst GTM | 2026-05-08 | SKIP: posting redirects to general jobs page (likely closed)
+jobboard | https://builtin.com/job/senior-data-analyst/8725040 | WebPT | Senior Data Analyst | 2026-05-08 | REJECT: hard req not met — finance/accounting domain experience required, candidate has product/marketing analytics background
+fingerprint | scan.com::data analyst::remote | Scan.com | Data Analyst | 2026-05-08 | PASS: fit score 76/100, all hard reqs met
+jobboard | https://builtin.com/job/data-analyst-business/9313356 | Linktree | Data Analyst, Business | 2026-05-12 | PASS: fit score 92/100, all hard reqs met. Location restricted to SF/LA regions.
+jobboard | https://builtin.com/job/analytics-engineer/9312840 | CHG Healthcare | Analytics Engineer | 2026-05-12 | PASS: fit score 77/100, all hard reqs met
+jobboard | https://builtin.com/job/lead-data-analyst/9316081 | GoodRx | Lead Data Analyst | 2026-05-12 | REJECT: requires advanced time series forecasting + causal analysis (candidate proficient-level stats), 6-8yr exp borderline
+jobboard | https://builtin.com/job/senior-data-analyst/9308719 | Teladoc Health | Senior Data Analyst | 2026-05-12 | REJECT: Argentina only despite US listing
+jobboard | https://builtin.com/job/senior-business-data-analyst/9308412 | Blue Orange Digital | Senior Business Data Analyst | 2026-05-12 | REJECT: requires 2yr client-facing/consulting experience (candidate is in-house analytics)
+jobboard | https://builtin.com/job/senior-game-data-analyst/9299102 | PlayStation | Senior Game Data Analyst | 2026-05-13 | REJECT: requires 4+ years games industry analytics + shipped games experience
+jobboard | https://builtin.com/job/senior-product-analyst/9323953 | MNTN | Senior Product Analyst | 2026-05-13 | REJECT: no salary listed (private co), requires identity resolution domain expertise
+jobboard | https://builtin.com/job/revenue-operations-analytics-engineer-momence/9337433 | Xplor Technologies | Revenue Operations Analytics Engineer | 2026-05-13 | REJECT: borderline score (75.5), niche sub-brand role, comp barely at floor ($145K)
+jobboard | https://www.linkedin.com/jobs/view/4408545307 | SentiLink | GTM Strategy Analyst | 2026-05-13 | REJECT: RevOps systems/engineering role, not analytics. Requires JavaScript + AI/LLM agent-building
+canonical | https://job-boards.greenhouse.io/grailed/jobs/5882006002 | Grailed | Data Analyst | 2026-05-13 | SKIP: posting closed (no openings on board)
+jobboard | https://boards.greenhouse.io/gitlab/jobs/6809009002 | GitLab | Financial Analyst GTM Strategic Finance | 2026-05-13 | REJECT: wrong function (Financial Analyst)
+fingerprint | datatrek::senior analytics engineer::remote | DataTrek | Senior Analytics Engineer | 2026-05-13 | REJECT: requires DoD Secret clearance, 12-month contract
+canonical | https://job-boards.greenhouse.io/figure/jobs/8516954002 | Figure | Senior Data Analyst, Servicing | 2026-05-14 | REJECT: domain-specific hard req — 3-5+ years loan servicing/collections analytics required
+canonical | https://block.xyz/careers/jobs/5098519008 | Block | Staff Data Analyst, Block Compliance | 2026-05-14 | REJECT: staff seniority (8+ years req), 5+ years AML/Compliance domain-specific
+fingerprint | improvado::senior data analyst (marketing experience)::remote | Improvado | Senior Data Analyst (Marketing Experience) | 2026-05-14 | REJECT: client-facing consulting role (end-to-end client delivery required)
+fingerprint | workwave::senior data analytics engineer::remote | WorkWave | Senior Data Analytics Engineer | 2026-05-14 | REJECT: Snowflake + Fivetran listed as required tools (candidate has BigQuery, not Snowflake)
+fingerprint | alphasense::principal marketing analyst::remote | AlphaSense | Principal Marketing Analyst | 2026-05-14 | REJECT: principal seniority
+fingerprint | velir::senior data analyst::remote | Velir | Senior Data Analyst | 2026-05-14 | REJECT: digital agency, client-facing work
+canonical | https://boards.greenhouse.io/myfitnesspal/jobs/6069186 | MyFitnessPal | Senior Business Intelligence Analyst | 2026-05-14 | SKIP: posting closed (404)
+canonical | https://boards.greenhouse.io/embed/job_app?token=7062629 | EquipmentShare | Data Analytics Engineer | 2026-05-14 | SKIP: posting closed (404)
+canonical | https://job-boards.greenhouse.io/torcrobotics/jobs/8543832002 | Torc Robotics | Senior BI Analyst | 2026-05-14 | PASS: fit score 84/100, all hard reqs met. Autonomous vehicles domain stretch but no domain-specific hard req.
+canonical | https://jobs.ashbyhq.com/join9am/32680534-8eca-451a-a398-8a2f2eab851d | 9amHealth | Senior Data Analyst | 2026-05-14 | PASS: fit score 77/100, all hard reqs met. Redshift vs BigQuery gap, healthcare domain preferred not required.
+fingerprint | mx::senior analytics engineer::telecommute lehi ut | MX Technologies | Senior Analytics Engineer | 2026-05-14 | REJECT: no salary listed (private company)
+canonical | https://job-boards.greenhouse.io/airtable/jobs/6567290002 | Airtable | Analytics Engineer | 2026-05-14 | SKIP: posting closed (404)
+canonical | https://job-boards.greenhouse.io/stripe/jobs/7292227 | Stripe | Senior Data Analyst | 2026-05-14 | SKIP: posting closed (404)
+canonical | https://job-boards.greenhouse.io/signifyd95/jobs/4188939 | Signifyd | GTM Data Analyst | 2026-05-14 | SKIP: posting closed (404)
+fingerprint | simplepractice::senior bi data analyst::remote | SimplePractice | Senior BI Data Analyst | 2026-05-14 | SKIP: posting closed (404)
+canonical | https://job-boards.greenhouse.io/check/jobs/5171759004 | Check | Business Intelligence Analyst | 2026-05-14 | SKIP: posting closed (404)
+canonical | https://job-boards.greenhouse.io/glossgenius/jobs/5884482003 | GlossGenius | Senior Product Analyst | 2026-05-14 | SKIP: posting closed (redirects to general board)
+canonical | https://r1rcm.wd1.myworkdayjobs.com/R1RCM/job/Remote-USA/Sr-BI-Analyst_R260000002905 | R1 RCM | Sr. BI Analyst | 2026-05-14 | REJECT: salary $50K-$114K — top of range barely at public floor, mid-level comp band inconsistent with senior candidate expectations; Snowflake preferred (candidate has BigQuery)
+fingerprint | curana health::business intelligence bi analyst::remote united states | Curana Health | Business Intelligence (BI) Analyst | 2026-05-14 | SKIP: posting closed (iCIMS 410 Gone); salary was $70K-$100K — below floor
+canonical | https://jobs.ashbyhq.com/roboflow/c878667f-01c3-4c44-8f1e-07c8e03423df | Roboflow | RevOps Analyst / Sr. Salesforce Administrator | 2026-05-14 | REJECT: wrong function — Salesforce developer/admin role (Apex, LWC, Metadata API), not data analytics
+canonical | https://job-boards.greenhouse.io/zetaglobal/jobs/5992323004 | Zeta Global | Senior Analyst, Analytics and Insights (Programmatic) | 2026-05-14 | REJECT: salary $90K-$110K at/below public floor; requires digital media/programmatic analytics domain experience
+canonical | https://job-boards.greenhouse.io/pinterest/jobs/7481476 | Pinterest | Sr. Data Analyst, Support Operations | 2026-05-14 | PASS: fit score 80/100. SQL/Tableau/Excel all Expert. Python Expert (preferred). Consumer internet adjacent. Support ops domain is stretch but not a hard req.
+fingerprint | origin::senior analytics engineer::remote united states | Origin | Senior Analytics Engineer | 2026-05-15 | PASS: fit score 90/100. SQL/Python Expert, dbt+Airflow in production, Tableau/Power BI Expert. Redshift direct match. A/B testing core domain strength. No salary listed (AE exception applied).
+fingerprint | talkiatry::senior analytics engineer - marketing::united states | Talkiatry | Senior Analytics Engineer, Marketing | 2026-05-16 | PASS: fit score 85/100. SQL Expert, dbt in production, Tableau+Looker Expert. A/B testing core domain. Salary $150K-$175K clears private floor.
+fingerprint | moxie::senior analytics engineer::brooklyn ny | Moxie | Senior Analytics Engineer | 2026-05-16 | REJECT: no remote policy confirmed — Brooklyn NY location suggests onsite
+fingerprint | enerflo::senior analytics engineer::remote | Enerflo | Senior Analytics Engineer | 2026-05-16 | FAIL: score 72/100 — Domo hard requirement not met (proprietary BI/ETL platform, central to role); comp $115K-$140K borderline at floor
+fingerprint | vynca::senior analytics engineer::remote | Vynca | Senior Analytics Engineer | 2026-05-16 | REJECT: salary $105K-$125K cap below $135K private floor
+canonical | https://jobs.ashbyhq.com/brigit/e46b2709-38b6-4b67-87ed-6ed33a60609f | Brigit | Senior Analytics Engineer | 2026-05-16 | REJECT: hybrid NYC, not fully remote
+fingerprint | comparecredit::senior / staff analytics engineer::united states | CompareCredit | Senior / Staff Analytics Engineer | 2026-05-16 | FAIL: score 72/100 — affiliate/performance marketing domain mismatch; Hightouch/Census reverse-ETL gap; comp $175K-$225K is strong but domain fit too weak
+fingerprint | thistle::senior analytics engineer::united states | Thistle | Senior Analytics Engineer | 2026-05-16 | PASS: fit score 88/100. SQL/Python Expert, dbt+Airflow in production, BigQuery+Redshift both Expert (direct preferred matches). Salary $151K-$166K. Remote confirmed. [corrected from erroneous onsite reject]
+canonical | https://instacart.careers/job/?gh_jid=7754354 | Instacart | Senior Analytics Engineer, Marketing | 2026-05-16 | PASS: fit score 82/100. SQL Expert, dbt in production, Python Expert, Looker/Tableau Expert. A/B testing domain. Paid attribution gap. Public (CART), $159K-$201.5K, remote.
+fingerprint | careset::senior healthcare data analytics engineer rwe market access::remote | CareSet | Senior Healthcare Data Analytics Engineer, RWE & Market Access | 2026-05-16 | SKIP: likely closed (not in live SmartRecruiters board); no salary listed; data engineering + healthcare domain title
+fingerprint | varos::senior analytics engineer::san francisco ca | Varos | Senior Analytics Engineer | 2026-05-16 | REJECT: salary $90K-$130K cap below $135K private floor; SF location ambiguous on remote
+fingerprint | everly::senior analytics engineer::remote us | Everly | Senior Analytics Engineer | 2026-05-16 | FAIL: multiple hard req failures — US life/annuity insurance compliance required (GLBA, NAIC MDL-668); AWS Glue/Step Functions/Lambda required (candidate GCP-native); Terraform/CloudFormation required; 8+ years required
+fingerprint | stripe::staff data analyst::united states | Stripe | Staff Data Analyst | 2026-05-18 | REJECT: 10+ years experience required — auto-reject disqualifier
+jobboard | https://www.linkedin.com/jobs/view/4415402594 | Samsara | Business Intelligence Analyst (Contract) | 2026-05-18 | REJECT: contract position + salary $34-49/hr far below floor
+canonical | https://job-boards.greenhouse.io/fanduel/jobs/7627712 | FanDuel | Senior Analytics Engineer | 2026-05-18 | SKIP: posting closed (redirect to general careers page)
+jobboard | https://www.linkedin.com/jobs/view/4410369603 | MX | Senior Analytics Engineer | 2026-05-18 | REJECT: hybrid role — office in Lehi, UT / Dallas, TX required
+fingerprint | civitech::analytics engineer::austin tx | Civitech | Analytics Engineer | 2026-05-18 | REJECT: salary $85K-$95K below $135K private floor
+fingerprint | first advantage::product analyst::us remote | First Advantage | Product Analyst | 2026-05-18 | REJECT: salary $55K-$65K far below floor; entry-level scope
+canonical | https://job-boards.greenhouse.io/khanacademy/jobs/5830861 | Khan Academy | Senior Analytics Engineer | 2026-05-18 | SKIP: posting closed (not in current listings)
+canonical | https://job-boards.greenhouse.io/mammothgrowth/jobs/4762202004 | Mammoth Growth | Senior Analytics Engineer | 2026-05-18 | SKIP: posting closed (redirect to general careers page)
+fingerprint | tala::senior analytics engineer::remote | Tala | Senior Analytics Engineer | 2026-05-18 | SKIP: posting closed (403)
+fingerprint | lumin digital::product data analyst::remote | Lumin Digital | Product Data Analyst | 2026-05-18 | SKIP: posting closed (403)
+fingerprint | ineight::analytics engineer::remote | InEight | Analytics Engineer | 2026-05-18 | FAIL: score 62/100 — Power BI/Power Query developer role (construction tech); candidate Power BI Expert but no Power Query/DAX depth; no dbt/SQL-warehouse stack; domain mismatch
+jobboard | https://builtin.com/job/growth-marketing-analyst/8668887 | TextNow | Growth Marketing Analyst | 2026-05-18 | PASS: fit score 76/100, all hard reqs met. SQL/Looker/Tableau Expert, A/B testing + LTV domain match. Paid media gap. Salary $124K-$178K, private, remote US.
+canonical | https://careers.upstart.com/jobs?gh_jid=7901484 | Upstart | Staff Data Analyst | 2026-05-18 | FAIL: score 74/100 — consumer lending/servicing domain gap (heavily preferred); score just below 75 threshold. Strong SQL/BI match but domain stretch.
+canonical | https://careers.upstart.com/jobs?gh_jid=7261511 | Upstart | Staff Data Analyst, Credit Analytics | 2026-05-18 | SKIP: posting closed (404)
+fingerprint | general assembly::business intelligence analyst::remote | General Assembly | Business Intelligence Analyst | 2026-05-18 | REJECT: no salary listed, private company (Adecco subsidiary), no AE title exception applies
+fingerprint | l3harris technologies::lead business intelligence analyst people analytics::remote | L3Harris Technologies | Lead, Business Intelligence Analyst – People Analytics | 2026-05-19 | REJECT: Lead seniority — auto-reject
+fingerprint | tabby::senior data analyst cx::remote | Tabby | Senior Data Analyst (CX) | 2026-05-19 | REJECT: company based in UAE/MENA; remote role hiring in Georgia (non-US); no salary listed
+fingerprint | enablecomp::senior data analyst::remote | EnableComp | Senior Data Analyst | 2026-05-19 | REJECT: no salary listed, private company (healthcare RCM), no AE title exception applies
+fingerprint | crunchtime::data analyst::remote | Crunchtime | Data Analyst | 2026-05-19 | REJECT: no salary listed, private company, no AE title exception applies
+fingerprint | assistrx::product business analyst::remote | AssistRx | Product Business Analyst | 2026-05-19 | REJECT: BA/PM function (not analytics), private company, no salary listed
+canonical | https://job-boards.greenhouse.io/samsara/jobs/7386898 | Samsara | Senior Data Analyst | 2026-05-19 | SKIP: posting closed (redirect to general careers page)
+canonical | https://job-boards.greenhouse.io/life360/jobs/7331624002 | Life360 | Senior Data Analyst | 2026-05-19 | SKIP: posting closed (not in current listings)
+canonical | https://job-boards.greenhouse.io/solera/jobs/6032073 | Solera Health | Senior Data Analyst | 2026-05-19 | SKIP: posting closed (no active openings)
+fingerprint | yelp::senior analyst product analytics::remote | Yelp | Senior Analyst, Product Analytics | 2026-05-19 | SKIP: posting expired (SimplyHired listing unavailable)
+canonical | https://job-boards.greenhouse.io/glossgenius/jobs/4746020003 | GlossGenius | Growth Marketing Analyst | 2026-05-19 | SKIP: posting closed (redirect to general careers page)
+fingerprint | jamf::senior marketing data analyst::remote | Jamf | Senior Marketing Data Analyst | 2026-05-19 | FAIL: score 68/100 — Salesforce strong proficiency required (candidate Familiar only); DOMO is primary BI platform in role (candidate has Tableau/Looker but not DOMO). Hard req not met.
+canonical | https://builtin.com/job/senior-risk-data-analyst-remote/9402039 | Optum (UnitedHealth Group) | Senior Risk Data Analyst | 2026-05-19 | FAIL: hard req not met — 3+ years in banking/financial institution with commercial/consumer loan experience required; candidate has no banking background
+canonical | https://builtin.com/job/data-analyst-data-governance/9419158 | Milliman | Data Analyst (Data Governance) | 2026-05-19 | FAIL: score 63/100 — data governance/migration domain; role centers on system implementation, data mapping, MDM tooling not in candidate profile
+canonical | https://job-boards.greenhouse.io/calendly/jobs/8558879002 | Calendly | Senior Data Analyst, Product | 2026-05-21 | PASS: score 75/100 — A/B testing Expert, Python Expert, SQL Expert, LTV/cohort Expert match all hard requirements; mobile domain gap (preferred only). Result file written.
+fingerprint | citizens::experiential marketing sr data analyst::westwood ma | Citizens Financial | Experiential Marketing Sr Data Analyst | 2026-05-21 | REJECT: 4 days in-office required (Westwood MA or Johnston RI); explicitly stated in JD
+fingerprint | clickhouse::senior analytics engineer gtm::san francisco ca | ClickHouse | Senior Analytics Engineer, GTM | 2026-05-21 | REJECT: hybrid 1-2 days/week in Menlo Park office; explicitly stated in JD
+fingerprint | podium::analytics engineer::lehi ut | Podium | Analytics Engineer | 2026-05-21 | REJECT: onsite 5 days/week Lehi UT; explicitly stated
+fingerprint | stubhub::senior analytics engineer::new york ny | StubHub | Senior Analytics Engineer | 2026-05-21 | REJECT: hybrid 3 days in office NYC/Century City LA; explicitly stated
+fingerprint | crexi::analytics engineer::los angeles ca | Crexi | Analytics Engineer | 2026-05-21 | REJECT: onsite Los Angeles; explicitly stated
+fingerprint | us mobile::analytics engineer::new york ny | US Mobile | Analytics Engineer | 2026-05-21 | REJECT: onsite New York NY; explicitly stated
+fingerprint | macrohealth::senior data analyst::fort lauderdale fl | MacroHealth | Senior Data Analyst | 2026-05-21 | REJECT: salary $100K-$110K below $135K private floor
+fingerprint | suvoda::senior data analyst::conshohocken pa | Suvoda | Senior Data Analyst | 2026-05-21 | REJECT: no salary listed, private company, not AE title
+fingerprint | permitflow::analytics engineer::new york ny | PermitFlow | Analytics Engineer | 2026-05-21 | REJECT: hybrid 3 days in office NYC; explicitly stated
+jobboard | https://www.linkedin.com/jobs/view/4411377132 | Harmonic Finance (recruiter) | Senior DA — unnamed PE-backed SaaS client | 2026-05-21 | SKIP: recruiter posting for unnamed client; no company disclosed
+fingerprint | interra health::senior data analyst::greater boston | Interra Health | Senior Data Analyst | 2026-05-21 | REJECT: no salary listed, private company, not AE title
+fingerprint | simply protein for pets::senior business intelligence analyst::fort lauderdale fl | Simply Protein for Pets | Senior Business Intelligence Analyst | 2026-05-21 | REJECT: salary $110K-$120K below $135K private floor
+fingerprint | ncd::senior data analyst::dallas tx | NCD (National Care Dental Vision) | Senior Data Analyst | 2026-05-21 | REJECT: no salary listed, private company, not AE title
+canonical | https://job-boards.greenhouse.io/scopely/jobs/5156232008 | Scopely | Senior Analytics Engineer | 2026-05-21 | FAIL: hard req not met — "technical KPI knowledge for mobile games at scale" required; candidate has no gaming domain experience
+canonical | https://jobs.ashbyhq.com/counsel/c98d0bc0-8398-4adb-8d31-f08fa3be88d8 | Counsel Health | Analytics Engineer | 2026-05-21 | FAIL: hard req not met — "background in regulated industry (healthcare, fintech, insurance, government)" required; not in candidate profile
+canonical | https://job-boards.greenhouse.io/doximity/jobs/7909273 | Doximity | Data Analyst | 2026-05-21 | PASS: score 88/100 — SQL/Python Expert, statistical analysis Proficient, Spark Familiar; all requirements met at or above threshold. Public DOCS, $110K-$150K base. Result file written.
+fingerprint | accompany health::senior healthcare data analyst::remote | Accompany Health | Senior Healthcare Data Analyst | 2026-05-21 | REJECT: hard reqs not met — "4+ years healthcare analytics or healthcare economics" and "managed care concepts (Risk Adjustment, DRGs, APGs)" required; not in candidate profile
+fingerprint | veeva systems::senior health data analyst payer::remote | Veeva Systems | Senior Health Data Analyst - Payer | 2026-05-21 | REJECT: payer-specific domain hard req (managed care/insurance claims domain); not in candidate profile. Salary $80K-$125K public floor met but domain disqualifies.
+canonical | https://job-boards.greenhouse.io/attentive/jobs/4118958009 | Attentive | Senior Product Analyst | 2026-05-22 | SKIP: already in dedup
+canonical | https://jobs.ashbyhq.com/ClassDojo/0aa8d535-882e-42dd-bf87-49ad9714e361 | ClassDojo | Staff Analytics Engineer | 2026-05-22 | SKIP: already in dedup
+fingerprint | solana foundation::senior data analyst::remote | Solana Foundation | Senior Data Analyst | 2026-05-22 | REJECT: no salary listed, non-profit/private, not AE title
+fingerprint | lob::senior analytics engineer::remote | Lob | Senior Analytics Engineer | 2026-05-22 | PASS: score 77/100 — SQL Expert, BigQuery/Redshift Expert (warehouse sub for Snowflake), dbt Proficient (borderline 3+ yr req), Expert Looker/Tableau. All hard requirements met. $152.5K–$170K, remote 28 US states, private. Result file written. [WARN] Canonical job-boards.greenhouse.io/lob/jobs/7950760 redirected to lob.com dynamic page; JD fetched via boards-api.greenhouse.io.
+jobboard | https://www.linkedin.com/jobs/view/4408568065 | Earnest | Analytics Engineer II | 2026-05-22 | SKIP: already in dedup (prior session)
+fingerprint | nuqleous::analytics engineer business intelligence::arkansas | Nuqleous | Analytics Engineer (Business Intelligence) | 2026-05-22 | REJECT: Associate seniority level; no salary listed; private company; below seniority threshold
+fingerprint | heliocampus::analytics engineer::bethesda md | HelioCampus | Analytics Engineer | 2026-05-22 | REJECT: Entry level seniority (2-4 yrs required); no salary listed; private company
+fingerprint | nscale::senior analytics engineer::seattle wa | Nscale | Senior Analytics Engineer | 2026-05-22 | FAIL: score ~58/100 — role entirely centered on Palantir Foundry platform (primary responsibility + strongly preferred); candidate has no Palantir experience. Supply chain/hardware domain not in profile.
+fingerprint | ensemble health partners::engineer analytics::fort lauderdale fl | Ensemble Health Partners | Engineer, Analytics | 2026-05-22 | REJECT: Entry level seniority (2+ yrs required); healthcare ops experience preferred; remote with required client travel
+fingerprint | doximity::data analyst business intelligence::remote us | Doximity | Data Analyst, Business Intelligence | 2026-05-22 | REJECT: salary $94K-$150K stated "inclusive of salary + equity" (total comp, not base); base likely below $110K public company floor. Distinct from 2026-05-21 Doximity DA (job 7909273, $110K-$150K base, PASS).
+fingerprint | healthcasts::senior data analyst::united states | Healthcasts | Senior Data Analyst | 2026-05-22 | REJECT: no salary listed; private company; not AE title; Director level per LinkedIn; management role ("lead and mentor small team")
+fingerprint | cobalt::data analyst::san francisco bay area | Cobalt | Data Analyst | 2026-05-22 | REJECT: no salary listed; private company; not AE title; Entry level; role is data science function (ML/model building), not analytics
+canonical | https://boards.greenhouse.io/remotecom/jobs/5772435003 | Remote.com | Senior Analyst, GTM Finance | 2026-05-22 | REJECT: Finance domain, wrong function
+canonical | https://boards.greenhouse.io/gitlab/jobs/6026889002 | GitLab | Senior Financial Analyst, GTM Strategic Finance | 2026-05-22 | REJECT: Finance domain, wrong function
+fingerprint | happyfresh::business intelligence analyst::remote | HappyFresh | Business Intelligence Analyst | 2026-05-22 | REJECT: Non-US company (Southeast Asia); international role
+fingerprint | oowlish technology::business intelligence analyst::remote | Oowlish Technology | Business Intelligence Analyst | 2026-05-22 | REJECT: Staff augmentation/outsourcing company; Latin America staffing
+fingerprint | gong::gtm strategy and planning analyst::multiple cities | Gong | GTM Strategy and Planning Analyst | 2026-05-22 | REJECT: function mismatch (RevOps/quota modeling/territory design, not data analytics); salary $80K-$115K below $135K private floor. Four city-based listings (SF 4409039053, NY 4409027341, SLC 4409041022, Chicago 4409035132) same role.
+fingerprint | harvey::gtm strategy analytics associate::new york ny | Harvey | GTM Strategy & Analytics Associate | 2026-05-22 | REJECT: Entry level; function mismatch (RevOps/strategy/CRM); Salesforce CRM expertise required (candidate Familiar only)
+fingerprint | sentilink::gtm strategy analyst::remote us | SentiLink | Go-to-Market (GTM) Strategy Analyst | 2026-05-22 | REJECT: function mismatch (GTM systems engineering/CRM automation, not data analytics); LLM agent-building preferred not in profile
+fingerprint | sundayy::data analyst sr::us | Sundayy | Data Analyst, Sr. | 2026-05-25 | REJECT: seniority=associate (entry-level signals), no salary listed, unclear employer (Sundayy appears to be third-party recruiter for Doximity); not evaluated further
+fingerprint | renaissance learning::business intelligence analyst::us | Renaissance Learning | Business Intelligence Analyst | 2026-05-25 | REJECT: salary $70K-$80K well below $135K floor; entry-level role (0-2 yrs experience stated)
+fingerprint | crowdstrike::sr engineer financial analytics::hybrid | CrowdStrike | Sr. Engineer, Financial Analytics | 2026-05-25 | REJECT: explicitly requires 2-3 days/week in office at VA/MA/DC/NY locations; not remote-compatible
+jobboard | https://builtin.com/job/data-analyst-hybrid/9384767 | Doximity | Data Analyst (Hybrid) | 2026-05-25 | REJECT: explicitly requires 3 days/week in SF office (Mon/Tue/Thu); not remote-compatible
+jobboard | https://builtin.com/job/data-analyst/9384766 | Doximity | Data Analyst | 2026-05-25 | REJECT: seniority=junior per posting metadata; entry-level role
+fingerprint | bae systems::operations business intelligence analyst::remote | BAE Systems | Operations Business Intelligence Analyst | 2026-05-25 | REJECT: seniority=junior; $79K-$135K with junior indicators; below expected mid-senior level
+fingerprint | alma::senior product analyst::remote | Alma | Senior Product Analyst | 2026-05-25 | SKIP: job closed — Greenhouse URL redirected to general Alma jobs page; role not listed in current openings
+jobboard | https://boards.greenhouse.io/remotecom/jobs/4801664003 | Remote.com | Data Analyst | 2026-05-25 | SKIP: job closed — Greenhouse URL redirected to general Remote.com jobs listing; role not found in current openings
+canonical | https://job-boards.greenhouse.io/calendly/jobs/8558879002 | Calendly | Senior Data Analyst, Product | 2026-05-25 | SKIP: canonical ATS URL already in dedup (evaluated prior session)
+fingerprint | vero::lead data analyst::remote | Vero | Lead Data Analyst | 2026-05-25 | REJECT: multiple hard requirements not met — 5+ years healthcare data required, FHIR/HL7/CCD data standards, clinical/claims data structures, ICD/SNOMED/LOINC/RxNorm terminology, value-based care models; zero candidate domain overlap
+fingerprint | orchard::senior analytics engineer::remote | Orchard | Senior Analytics Engineer | 2026-05-25 | FAIL: score ~73/100 — dbt/SQL/Redshift all met but LLM-powered query systems is a primary listed responsibility with "hands-on retrieval or evals" as preferred req; no LLM/AI experience in candidate profile. Below 75 threshold. No salary listed (AE exception applied but still concern).
+fingerprint | optum::healthcare senior data analyst consultant::remote | Optum (The Lewin Group) | Healthcare Senior Data Analyst Consultant, Quality Measurement (CMMI) | 2026-05-25 | REJECT: wrong domain entirely — requires 6+ years health services research/policy, quality measure development (CMS/NQF), federal Medicare/Medicaid programs, claims/EHR/chart-abstracted data expertise, business development/proposals leadership. Multiple hard requirements not met.
+canonical | https://jobs.lever.co/aofl/734e76a3-f114-48c3-8ad1-da98cbd92b22 | Age of Learning | Senior Product Analyst | 2026-05-25 | SKIP: canonical URL already in dedup (prior session evaluation)
+canonical | https://job-boards.greenhouse.io/wheelhousedmg/jobs/4680691005 | Wheelhouse DMG | Digital Marketing Analytics Engineer | 2026-05-25 | FAIL: hard requirement not met — "Hands-on tag management with Tealium IQ or Google Tag Manager" listed as required qualification; candidate has GA4 (event-based analytics) but not tag management systems; different tools, cannot substitute
+fingerprint | the misch group::senior marketing data analyst::remote | The Misch Group | Senior Marketing & Data Analyst | 2026-05-25 | SKIP: staffing/recruiting firm (The Misch Group / Stone Hendricks Group) posting on behalf of unnamed client; qualifies as "other staffing agencies/aggregators posting on behalf of unnamed clients" per spam criteria
+fingerprint | agero::lead data analyst network::us remote | Agero, Inc. | Lead Data Analyst (Network) | 2026-05-25 | PASS: score 82/100 — SQL expert, Power BI/Tableau/Looker expert, 5+ years analytics, all hard requirements met. $110K-$135K (private, top exactly at $135K floor — tight). Remote US + one-time in-person onboarding Medford MA. Result file written.
+canonical | https://jobs.lever.co/Instrumentl/f99bcbe4-e36a-459f-8a8c-d42091b8d6b7 | Instrumentl | Lead Product Analyst | 2026-05-25 | PASS: score 81/100 — BigQuery SQL expert, A/B testing, Looker/Tableau expert, Python expert, GA4 as Heap comparable, dbt/Airflow present. "Founding analyst" req unconfirmed but not disqualified. $160K-$180K, remote US/Canada. Result file written.
+canonical | https://jobs.baesystems.com/global/en/job/BAE1US124906BREXTERNAL/Data-Analytics-Developer-Power-BI | BAE Systems, Inc. | Data & Analytics Developer, Power BI | 2026-05-25 | PASS: score 81/100 — Power BI expert (5+ yr), SQL expert, Tableau expert, Python expert, 5+ years BI experience. $107K-$183K at public company (LSE: BA). Remote option confirmed. Defense sector outside candidate domain — noted. Result file written.
+fingerprint | alteryx::sr engineering insights analyst::remote | Alteryx | Sr. Engineering Insights Analyst | 2026-05-25 | FAIL: score ~68/100 — SQL/Python/BI tools met but role is exclusively engineering/DevOps analytics (PR cycle times, CI/CD, SLOs, incident management); SDLC familiarity hard req partially met (Git only); engineering domain has no overlap with candidate's marketing/e-commerce analytics background
+canonical | https://job-boards.greenhouse.io/xapo61/jobs/5910828003 | Xapo Bank | Senior Data Analyst, AFC | 2026-05-28 | SKIP: posting closed — canonical URL redirected to general Xapo Bank jobs page
+canonical | https://job-boards.greenhouse.io/calm/jobs/7310244002 | Calm | Senior Analytics Engineer | 2026-05-28 | SKIP: posting closed — canonical URL redirected to general Calm jobs page (different positions listed)
+canonical | https://job-boards.greenhouse.io/datatonic/jobs/4338471101 | Datatonic | Senior Analytics Engineer | 2026-05-28 | SKIP: posting closed — 404 error on canonical URL
+canonical | https://job-boards.greenhouse.io/predictiveindex/jobs/5755049002 | The Predictive Index | Senior Business Intelligence Analyst, Product Analytics | 2026-05-28 | SKIP: posting closed — canonical URL redirected to general Predictive Index jobs page (different roles listed)
+canonical | https://job-boards.greenhouse.io/ezcaterinc/jobs/4157647007 | ezCater | Lead Technical Analyst, Product Analytics | 2026-05-28 | SKIP: posting closed — canonical URL redirected to general ezCater jobs page
+fingerprint | ezcater::analytics engineer::remote | ezCater | Analytics Engineer | 2026-05-28 | SKIP: posting closed — Lever URL returned 403 error
+canonical | https://jobs.ashbyhq.com/assured/cf1c1e3a-5d09-49a3-a4c4-6cacf7264aec | Assured | Staff Product Analyst | 2026-05-28 | SKIP: canonical URL already in dedup (prior session)
+fingerprint | mntn::senior data analyst::remote us | MNTN | Senior Data Analyst | 2026-05-28 | REJECT: no salary listed, private company, not AE title
+canonical | https://job-boards.greenhouse.io/hatchcareers/jobs/4241091006 | Hatch | Senior Product Analyst | 2026-05-28 | SKIP: posting closed — canonical URL redirected to general Hatch jobs page (different roles listed)
+canonical | https://job-boards.greenhouse.io/walkeredison/jobs/5457699003 | Walker Edison | Senior Business Intelligence Analyst | 2026-05-28 | SKIP: posting closed — 404 error on canonical URL
+canonical | https://job-boards.greenhouse.io/builtin/jobs/3394212 | Built In | Senior Business Intelligence Analyst | 2026-05-28 | SKIP: posting closed — canonical URL redirected to general Built In jobs page (different roles listed)
+canonical | https://careers.upstart.com/jobs?gh_jid=7901484 | Upstart | Staff Data Analyst | 2026-05-28 | SKIP: canonical URL already in dedup (prior session)
+canonical | https://job-boards.greenhouse.io/calendly/jobs/8563165002 | Calendly | Senior Data Analyst, Reporting | 2026-05-28 | FAIL: hard requirement not met — "Expertise using Hex for building dashboards" is primary BI tool requirement; no Hex in candidate profile (Tableau/Looker/Power BI present). Amplitude product analytics platform listed as required; candidate has GA4, not Amplitude. Score ~70/100.
+canonical | https://jobs.ashbyhq.com/oscilar/4705d263-1deb-49c3-ab8c-57f271b2e478 | Oscilar | Analytics Engineer | 2026-05-28 | PASS: score 75/100 (re-evaluated after profile update) — SQL/Python/dbt/Airflow all met; "Strong AI fluency, hands-on LLMs/AI agents" NOW MET via LLM classification pipeline + LLM-queryable dbt products. Hex tool gap noted. No salary disclosed (AE exception). Remote US. Result file written.
+canonical | https://job-boards.greenhouse.io/reddit/jobs/7445224 | Reddit | Senior Analytics Engineer | 2026-05-28 | FAIL: hard requirements not met — (1) Scala proficiency required ("strong programming proficiency in Python, SQL, Spark, Scala"); Scala absent from candidate profile; (2) advanced degree (M.S./Ph.D.) required per experience structure. Score ~65/100.
+canonical | https://job-boards.greenhouse.io/life360/jobs/8567759002 | Life360 | Senior Finance Analytics Engineer, AI Native | 2026-05-28 | FAIL: multiple hard requirements not met — (1) hands-on AI/LLM tools ("Claude Code, Cursor, or equivalent") required in daily workflow; (2) 1+ year designing data products for AI consumption (MetricFlow, Cube, semantic layer for LLMs); (3) Finance/Accounting domain experience required. None in candidate profile.
+fingerprint | recharge::senior data analyst gtm analytics::santa monica ca | Recharge | Senior Data Analyst, GTM Analytics | 2026-05-28 | FAIL: hard requirement not met — "Demonstrated experience with LLMs/AI applications" listed as required; tech stack includes Claude, Cursor, Colab as operational tools; not in candidate profile. Score ~68/100.
+canonical | https://job-boards.greenhouse.io/philo/jobs/7958304 | Philo | Senior Business Intelligence Analyst | 2026-05-28 | PASS: score 78/100 — SQL Expert, Tableau/Looker Expert, Python Expert, cohort/LTV/A-B/retention/funnel analytics all met; dbt Proficient. 6-yr req borderline (candidate 5+ yr). Subscription/streaming domain gap. $120K-$170K private, remote US. Result file written.
+fingerprint | celigo::analytics engineer::united states | Celigo | Analytics Engineer | 2026-05-28 | PASS: score 82/100 — SQL Expert, dbt Proficient, BigQuery/Snowflake equivalent, Git Proficient, Python Expert, Airflow Proficient; all hard requirements met. $120K-$140K private top clears $135K floor. Remote-first. Result file written.
+fingerprint | jamf::senior business intelligence analytics engineer::remote | Jamf | Senior Business Intelligence Analytics Engineer | 2026-06-03 | PASS: score 82/100 (re-evaluated after profile update) — dbt 3yr+, BigQuery at scale, SQL Expert, Python Expert; LLM semantic views NOW MET (LLM-queryable dbt models w/ col-level docs enabling NL querying); NLP text-to-SQL NOW MET. $103K-$186K public (NASDAQ: JAMF). Remote US. Result file written.
+canonical | https://boards.greenhouse.io/glassdoor/jobs/6887343002 | Glassdoor | Senior Digital Analytics Engineer | 2026-06-03 | SKIP: posting closed — GH URL redirected to general Glassdoor jobs page with "no current openings"
+canonical | https://boards.greenhouse.io/affirm/jobs/4205066003 | Affirm | Analytics Engineer, Data Partners | 2026-06-03 | SKIP: posting closed — GH URL redirected to general Affirm careers page (161 open positions, none matching this role)
+canonical | https://walkerdunlop.wd1.myworkdayjobs.com/WD/job/Remote---USA/Senior-BI-Analyst_Req-1930 | Walker & Dunlop | Senior BI Analyst | 2026-06-03 | FAIL: score 70/100 — all required met (Power BI Expert, SQL+dimensional modeling, BigQuery, stakeholder comm, Agile); preferred gaps: SSRS/SSAS absent, CRE/financial services domain absent, Jira light. 6-yr requirement borderline (candidate 5+ yr). Below 75 threshold.
+canonical | https://job-boards.greenhouse.io/splashfinancial/jobs/4685890006 | Splash Financial | Senior Product Analyst | 2026-06-03 | PASS: score 77/100 — SQL Expert, A/B testing Expert, Looker/Tableau Expert, Python Expert; NPS/survey familiarity and AI/ML working knowledge met at stated bar. $150K-$180K private, remote US. Fintech domain gap (preferred only). Result file written.
+fingerprint | leidos::senior data analyst::woodlawn md | Leidos | Senior Data Analyst | 2026-06-03 | REJECT: location — explicitly "No Remote" per Leidos careers page (Woodlawn, MD and Tampa, FL listings); not remote-compatible
+canonical | https://healthcare.wd1.myworkdayjobs.com/Search/job/Remote-United-States/Senior-Data-Analyst---AI---Automation_R01130669 | Solventum | Senior Data Analyst, AI & Automation | 2026-06-03 | FAIL: hard requirement not met — requires 1 year hands-on experience building effective AI agents and applications of AI in business use cases; not in candidate profile. $107K-$148K public (Solventum SOLV). Score ~60/100.
+fingerprint | varian::data and business intelligence analyst::remote | Varian Medical Systems | Data and Business Intelligence Analyst | 2026-06-03 | REJECT: salary — top of range $123K below $135K private floor; Varian is Siemens Healthineers subsidiary (not independently public)
+canonical | https://job-boards.greenhouse.io/goatgroup/jobs/4234952005 | GOAT Group | Senior Business Intelligence Analyst, Flight Club | 2026-06-03 | SKIP: posting closed — GH URL redirected to general GOAT Group jobs page (28 open positions; BIA role not listed)
+canonical | https://job-boards.greenhouse.io/classpass/jobs/3564731 | ClassPass | Business Intelligence Analyst, Revenue | 2026-06-03 | SKIP: posting closed — GH URL redirected to Playlist.com careers (ClassPass rebranded/acquired)
+canonical | https://job-boards.greenhouse.io/globalwebindex/jobs/6816651002 | GWI (GlobalWebIndex) | Business Intelligence Analyst | 2026-06-03 | SKIP: posting closed — GH URL redirected to general GWI jobs page (18 open positions; BIA role not listed)
+canonical | https://job-boards.greenhouse.io/netlify/jobs/8027454002 | Netlify | Data Analyst (Product and GTM) | 2026-06-03 | SKIP: posting closed — GH URL redirected to general Netlify jobs page (only 2 positions listed: Talent Community + Account Executive)
+fingerprint | nielsen::senior business intelligence analyst::remote | Nielsen | Senior Business Intelligence Analyst | 2026-06-03 | REJECT: no salary visible — Lever page returned 403; cannot confirm salary meets $110K public floor
+fingerprint | bestow::senior data analyst::united states | Bestow | Senior Data Analyst | 2026-06-03 | FAIL: score 66/100 — SQL/dbt/Airflow/BigQuery/viz tools all met; gap on CI/CD and SDLC engineering breadth (required); insurance domain not in profile (preferred). Salary ceiling $135K = exactly at private floor with no upside. Below 75 threshold.
+canonical | https://www.quinstreet.com/careers/?gh_jid=7729687 | QuinStreet | Senior Data Analyst | 2026-06-03 | SKIP: posting expired — Working Nomads confirmed "listing has expired and is no longer accepting applications"; $80K-$130K public (QNST)
+fingerprint | danaher::senior data analyst performance partnership::remote | Danaher | Senior Data Analyst, Performance Partnership | 2026-06-03 | REJECT: first-pass — $100K-$115K salary noted (Danaher public DHR; $115K barely clears $110K public floor); domain-specific commercial/life sciences analytics requirements expected based on Danaher's industry context
+fingerprint | covermymeds::senior business intelligence analyst::remote | CoverMyMeds | Senior Business Intelligence Analyst | 2026-06-03 | REJECT: first-pass — healthcare domain (McKesson/pharmacy workflow analytics); specific pharmacy/medication adherence domain hard requirements expected; confirmed Workday posting JR0129727 but JD unreadable (JS-rendered). $109K-$181K public (MCK) passes salary.
+fingerprint | magellan health::senior business intelligence analytics developer::remote | Magellan Health | Senior Business Intelligence and Analytics Developer | 2026-06-03 | REJECT: first-pass — function mismatch (BI AE "Developer" title indicates engineering-heavy scope) and behavioral healthcare domain hard requirements expected; $84K-$143K (Centene/CNC subsidiary, public); salary passes floor
+canonical | https://job-boards.greenhouse.io/backblaze/jobs/5040108008 | Backblaze | Sr. GTM Analyst | 2026-06-03 | REJECT: location — available only in Argentina, Colombia, Costa Rica, India, Mexico, Philippines; not US remote
+canonical | https://job-boards.greenhouse.io/eleoshealth/jobs/4856460101 | Eleos Health | GTM Operations Analyst | 2026-06-03 | REJECT: function mismatch — Revenue Operations/GTM systems analyst (CRM, RevOps workflow); not data analytics role
+canonical | https://job-boards.greenhouse.io/vidyard/jobs/7075053 | Vidyard | Senior Go-to-Market Data Analyst | 2026-06-03 | REJECT: location — Canada-only remote; not US remote
+canonical | https://jobs.lever.co/rainfocus/c80c7bd0-71e7-4157-9a4a-e52814fd11b8 | RainFocus | Business Intelligence Analyst | 2026-06-03 | REJECT: no salary listed; private company; not AE title exception
+canonical | https://jobs.lever.co/bellhops/0718e2ad-f3fe-489b-b57d-a162dba09509 | Bellhop | Business Intelligence Analyst | 2026-06-03 | REJECT: no salary listed; private company; not AE title exception
+canonical | https://jobs.lever.co/talentwerx.io/df126fd1-0a4d-488e-b1d1-273bae2264d0 | EXPANSIA | Business Intelligence Analyst (Manufacturing) | 2026-06-03 | REJECT: salary $80K-$120K ceiling well below $135K private floor; manufacturing domain
+canonical | https://jobs.lever.co/great-gray-group/40d2fd64-bf77-4dfb-89fa-88f926c59c11 | Great Gray | Data Analyst (Go-to-Market) | 2026-06-03 | REJECT: location — 4 days onsite Boston MA; not remote-compatible
+canonical | https://jobs.lever.co/empowerly/773839db-e3ad-466a-bcb9-b7047f2a521e | Empowerly | Senior GTM Financial Analyst | 2026-06-03 | REJECT: function mismatch — FP&A/financial planning role, not data analytics
+canonical | https://jobs.lever.co/connorgp/3455c847-2d42-426b-820b-8bb650bc5bdc | Connor Group | GTM Analyst | 2026-06-03 | REJECT: salary $80K-$90K well below $135K private floor
+canonical | https://job-boards.greenhouse.io/orchard/jobs/8562768002 | Orchard | Senior Analytics Engineer | 2026-06-03 | PASS: score 76/100 (re-evaluated after profile update adding LLM experience) — dbt+SQL+BigQuery all met; "experience building with LLMs on proprietary data" NOW MET via LLM-queryable dbt models (semantic layer natural language querying). Preferred gap: retrieval/eval frameworks. $135K-$180K private. LOCATION RED FLAG: remote only in Austin or Denver. Result file written.
+fingerprint | recharge::senior data analyst gtm analytics::santa monica ca | Recharge | Senior Data Analyst, GTM Analytics | 2026-06-03 | SKIP: posting closed — Recharge GH page shows "no current openings"; previously evaluated 2026-05-28 as FAIL; role no longer available for re-evaluation
+fingerprint | rate::senior business intelligence analyst::fort lauderdale fl | Rate | Senior Business Intelligence Analyst | 2026-06-05 | REJECT: salary $90K-$100K well below $135K private floor
+fingerprint | pilot.com::senior analytics engineer::san francisco ca | Pilot.com | Senior Analytics Engineer | 2026-06-05 | REJECT: location — hybrid 3 days/week SF office; not remote-compatible
+fingerprint | victory live::senior analytics engineer::atlanta ga | Victory Live | Senior Analytics Engineer | 2026-06-05 | REJECT: location — Atlanta GA on-site; not remote
+fingerprint | earnest::senior analytics engineer::remote | Earnest | Senior Analytics Engineer | 2026-06-05 | SKIP: closed — GH boards.greenhouse.io/earnest/jobs/7407303 redirects to careerpuck.com
+canonical | https://job-boards.greenhouse.io/coinbase/jobs/6884044 | Coinbase | Senior Analytics Engineer | 2026-06-05 | SKIP: closed — redirects to job-boards.greenhouse.io/coinbase?error=true
+canonical | https://job-boards.greenhouse.io/coinbase/jobs/6884036 | Coinbase | Analytics Engineer | 2026-06-05 | SKIP: closed — redirects to job-boards.greenhouse.io/coinbase?error=true
+canonical | https://jobs.lever.co/peek/1f84220a-e999-4c17-9688-3781840eecd4 | Peek | Product Analyst | 2026-06-05 | REJECT: no salary listed; private non-AE; role is non-senior (2+ yr req)
+canonical | https://jobs.lever.co/myollie/16de9015-270c-4176-9636-aa9f232c9148 | Ollie | Data Analyst, Retention | 2026-06-05 | REJECT: location — East Coast only; not nationwide remote
+canonical | https://jobs.lever.co/myollie/f6bd0653-d632-4f77-ae61-54be0276f7b1 | Ollie | Senior Data Analyst, Experimentation & Growth | 2026-06-05 | REJECT: location — Northeast US only; not nationwide remote
+fingerprint | capital one::senior marketing analyst, capital one software::remote | Capital One | Senior Marketing Analyst, Capital One Software | 2026-06-05 | REJECT: hard requirement — 2+ years people management required; not in candidate profile. $161K-$184K public NYSE:COF.
+fingerprint | aftership::senior marketing data analyst::remote | AfterShip | Senior Marketing Data Analyst | 2026-06-05 | REJECT: salary CAD $141K-$165K ≈ USD $103K-$121K below $135K private floor
+fingerprint | indigo::senior analytics engineer::boston or remote | Indigo | Senior Analytics Engineer | 2026-06-05 | SKIP: closed — GH boards.greenhouse.io/indigo/jobs/3738581 now shows only non-AE roles
+fingerprint | guidewire::people analytics consultant::remote | Guidewire | People Analytics Consultant | 2026-06-05 | REJECT: function mismatch — HR/People Analytics specialist requiring 5 years in HR analytics context; $118K-$176K public NASDAQ:GWRE
+canonical | https://job-boards.greenhouse.io/goguardian/jobs/4686708006 | GoGuardian | Business Intelligence Analyst V | 2026-06-05 | FAIL: score 70/100 — Amplitude + Segment in 12 required competencies, both absent; team leadership expected; EdTech domain gap. $160K-$215K, remote.
+canonical | https://job-boards.greenhouse.io/yipitdata/jobs/7960706 | YipitData | Senior Data Analyst | 2026-06-05 | FAIL: score 70/100 — alternative data/market research product domain for financial services clients; internal analytics background misaligns with external data product development; 6-8+ yr req vs. 5+ yr candidate. $165K-$205K, remote.
+canonical | https://job-boards.greenhouse.io/figure/jobs/8575932002 | Figure Lending | Senior Data Analyst, Lending | 2026-06-05 | FAIL: score 70/100 — "understanding of the lending lifecycle" domain hard req; no fintech/lending background. $110K-$150K base + 25% bonus, remote.
+canonical | https://job-boards.greenhouse.io/doximity/jobs/6738774 | Doximity | Senior Data Analyst | 2026-06-05 | PASS: score 77/100 — SQL Expert, Python Expert, stats, data viz all met; public NYSE:DOCS; $130K-$190K total comp; healthcare domain gap preferred only. Result file written.
+canonical | https://job-boards.greenhouse.io/honehealth/jobs/4878725008 | Hone Health | Senior Business Intelligence Analyst, Product | 2026-06-05 | PASS: score 80/100 — all tech reqs met at/above bar; SQL Expert, Python Expert, all BI tools Expert, GCP/BigQuery, dbt Proficient; healthcare domain gap is plus factor only. $125K-$140K private, remote. Result file written.
+canonical | https://job-boards.greenhouse.io/mavenclinic/jobs/8297806002 | Maven Clinic | Senior Data Analyst (Customer Analytics) | 2026-06-05 | PASS: score 78/100 — SQL Expert, Tableau/Looker Expert, dbt Proficient, A/B+LTV+cohort all met; $166K-$195K private; quarterly in-office acceptable; women's health domain gap = preferred only. Result file written.
+canonical | https://jobs.lever.co/owner/da71fdd1-4893-47f5-9203-62bb576b2ac6 | Owner | Analytics Engineer, GTM | 2026-06-05 | PASS: score 80/100 — dbt+SQL SSOT design+data product ownership all met; Snowflake≈BigQuery per rubric; marketing attribution covers GTM scope; $160K-$180K pre-IPO, 100% remote. Result file written.
+fingerprint | loop::analytics engineer::remote | Loop | Analytics Engineer | 2026-06-05 | SKIP: PASS first-pass ($105K-$150K private, remote) but deep eval skipped — Lever JD unavailable (403); stack: dbt+Snowflake+Hex+Fivetran
+fingerprint | cents::senior data analyst::remote | Cents | Senior Data Analyst | 2026-06-05 | SKIP: PASS first-pass ($125K-$150K private, remote) but deep eval skipped — Lever JD unavailable (403); stack: Looker+Snowflake+SQL
+canonical | https://job-boards.greenhouse.io/reddit/jobs/7958354 | Reddit | Analytics Engineer, Consumer Data Science | 2026-06-08 | FAIL: score 71/100 — Scala required alongside Spark (candidate familiar only); role reads closer to data engineering (large-scale ETL, Spark, Scala) than AE; domain/LLM match excellent but technical gap disqualifies. $164K-$229K public NYSE:RDDT.
+fingerprint | talkiatry::analytics engineer::new york, ny | Talkiatry | Analytics Engineer | 2026-06-08 | REJECT: salary $130K-$150K below $135K private floor; Ashby JS-rendered, fingerprint used.
+fingerprint | bolt::customer journey & ai data analyst::united states | Bolt | Customer Journey & AI Data Analyst | 2026-06-08 | REJECT: no salary listed (private non-AE); likely same role as LinkedIn 4404803295 evaluated prior run; ATS URL unresolvable (404+rate limit), fingerprint used.
+canonical | https://job-boards.greenhouse.io/modernhealth/jobs/8550544002 | Modern Health | Data Analyst | 2026-06-08 | REJECT: salary $90K-$125K far below $135K private floor.
+fingerprint | honest health::business intelligence analyst::united states | Honest Health | Business Intelligence Analyst | 2026-06-08 | REJECT: salary $84K-$98K far below $135K private floor; LinkedIn Easy Apply, fingerprint used.
+fingerprint | avalara::business intelligence analyst (senior gtm business insights)::united states | Avalara | Business Intelligence Analyst (Senior GTM Business Insights) | 2026-06-08 | REJECT: salary $111K-$215K, private company (taken private 2022); minimum $111K below $135K private floor; LinkedIn Easy Apply, fingerprint used.
+canonical | https://job-boards.greenhouse.io/forafinancial/jobs/4275198009 | Fora Financial | Senior / Staff Analytics Engineer | 2026-06-08 | PASS: score 81/100 — dbt production + semantic layer exact match (LLM-queryable dbt layer); SQL/Python/Git/Airflow all met; finserv domain preferred only; $140K-$200K private remote. Result file written.
+canonical | https://www.pinterestcareers.com/jobs/?gh_jid=7890197 | Pinterest | Lead Product Analyst, Pinner Engagement | 2026-06-08 | PASS: score 93/100 — SQL/Python/Tableau Expert; A/B testing + LTV/cohort core competency; consumer tech (Airbnb) exact domain match; $145K-$300K public NYSE:PINS; remote with 1-2x/6mo in-person. NOTE: graduate degree in quant field is required — confirm before applying. Result file written.
+canonical | https://careers.servicenow.com/jobs/744000130593059/staff-analyst-marketing-analytics-audience-insights | ServiceNow | Staff Analyst, Marketing Analytics & Audience Insights | 2026-06-08 | FAIL: B2B marketing experience in required qualifications not met (candidate background is B2C); 10+ yrs required. Score would be 76 but hard req B2B gate fails. $114K-$200K public NYSE:NOW.
+canonical | https://job-boards.greenhouse.io/thatch/jobs/4944171008 | Thatch | Analytics Engineer | 2026-06-08 | SKIP: posting closed/redirect 404; $160K-$190K BuiltIn listing but canonical GH URL does not resolve.
+canonical | https://boards.greenhouse.io/webflow/jobs/6335695 | Webflow | Data Analyst | 2026-06-08 | SKIP: posting closed — GH URL no longer resolves to active posting.
+canonical | https://boards.greenhouse.io/calendly/jobs/7512107002 | Calendly | Analytics Engineer II | 2026-06-08 | SKIP: posting closed — GH URL no longer resolves; mid-level (AE II) seniority concern.
+canonical | https://boards.greenhouse.io/cloudflare/jobs/5657039 | Cloudflare | Analytics Engineer | 2026-06-08 | SKIP: posting closed — GH redirects to error page.
+canonical | https://boards.greenhouse.io/stord21/jobs/5153672002 | Stord | Senior Business Intelligence Analyst | 2026-06-08 | SKIP: posting closed — 404 on direct fetch.
+canonical | https://boards.greenhouse.io/generalassembly/jobs/6100943 | General Assembly | Senior Business Intelligence Analyst | 2026-06-08 | SKIP: posting unresolvable — appears in search index but GH page does not serve active listing; GA already has BIA fingerprint in dedup (line 514).
+canonical | https://boards.greenhouse.io/ebanx/jobs/4179205003 | EBANX | Senior Product Analyst LATAM | 2026-06-08 | REJECT: location — LATAM region, not US remote.
+canonical | https://boards.greenhouse.io/upwork/jobs/5553841003 | Upwork | Contract: Product Analyst | 2026-06-08 | REJECT: contract engagement (not FTE); mid-level seniority; no salary listed.
+canonical | https://jobs.lever.co/aledade/d1a2d2af-c930-4c3f-b5bf-8332692747e3 | Aledade | Senior Product Analyst (Data Ingestion) | 2026-06-08 | REJECT: no salary listed, private company, non-AE role; domain is healthcare payer claims/eligibility data.
+canonical | https://jobs.lever.co/metabase/5eca795c-48dd-496a-be23-2181068a5450 | Metabase | Analytics Engineer | 2026-06-08 | REJECT: salary $95K-$190K private; minimum $95K below $135K private floor.
+fingerprint | happyfresh::product analyst::remote | HappyFresh | Product Analyst | 2026-06-08 | REJECT: non-US company (Asian grocery delivery, SEA-based).
+canonical | https://jobs.lever.co/qonto/acd6d7a2-12e9-4bdc-8923-68282df69f02 | Qonto | Senior Analytics Engineer | 2026-06-08 | REJECT: European company (French fintech); non-US.
+canonical | https://boards.greenhouse.io/redpandadata/jobs/4093600005 | Redpanda Data | Analytics Engineer | 2026-06-08 | REJECT: EMEA remote (confirmed from prior 06-05 session evaluation).
+fingerprint | robinhood::senior analytics engineer::menlo park, ca | Robinhood | Senior Analytics Engineer | 2026-06-11 | REJECT: location — explicit hybrid, 3 days/week Menlo Park office required; candidate requires fully remote.
+fingerprint | fora travel::senior analytics engineer::new york, ny | Fora Travel | Senior Analytics Engineer | 2026-06-11 | REJECT: location — NYC office attendance explicitly required in JD.
+fingerprint | rocket money::senior data analyst::detroit, mi | Rocket Money | Senior Data Analyst | 2026-06-11 | REJECT: location — Detroit office presence required (onsite implied from perks/office language).
+fingerprint | verse medical::analytics engineer::new york, ny | Verse Medical | Analytics Engineer | 2026-06-11 | REJECT: location — 4 days/week NYC in-office required.
+fingerprint | zipline::senior analytics engineer::south san francisco, ca | Zipline | Senior Analytics Engineer | 2026-06-11 | REJECT: location — South SF HQ-based hybrid; candidate requires fully remote.
+fingerprint | prizepicks::business intelligence analyst::atlanta, ga | PrizePicks | Business Intelligence Analyst | 2026-06-11 | REJECT: salary $85K-$120K below $135K private floor.
+fingerprint | launch potato::business intelligence analyst::remote | Launch Potato | Business Intelligence Analyst | 2026-06-11 | REJECT: no salary listed, private company, non-AE role.
+fingerprint | mission cloud::senior business intelligence analyst::remote | Mission Cloud | Senior Business Intelligence Analyst | 2026-06-11 | REJECT: no salary listed, private company, non-AE role.
+canonical | https://ats.rippling.com/opendoor/jobs/61e10868-0439-4bff-adc3-ef4e8afdf644 | Opendoor | Agentic Analytics Engineer | 2026-06-11 | REJECT: location — explicitly in-person, Seattle WA; not remote-eligible (confirmed via Simplify Jobs).
+canonical | https://jobs.ashbyhq.com/ironcladhq/92c4c68b-e18d-4f87-bb3b-fcac248fdd51 | Ironclad | Senior Analytics Engineer | 2026-06-11 | REJECT: location — hybrid SF required; JD explicitly states must be within commutable distance and willing to commute 2 days/week. $147K-$184K, private.
+canonical | https://job-boards.greenhouse.io/zocdoc/jobs/7659010 | Zocdoc | Staff Analytics Engineer | 2026-06-11 | REJECT: hard requirement not met — Amplitude admin experience required (required qualifications), not in candidate profile. Location: NYC "encouraged hybrid 2d/wk" (not a hard reject). $180K-$250K, private.
+canonical | https://job-boards.greenhouse.io/youcom/jobs/5152458008 | You.com | Senior Analytics Engineer | 2026-06-11 | PASS: score 83/100; all hard requirements met; SQL/Python/dbt/Looker/BigQuery Expert; LLM production work (queryable semantic layer + classification pipeline) directly covers preferred LLM/AI requirements. ⚠️ Location: SF Hybrid (in-person requirement unclear — confirm before applying). ⚠️ Salary: $100K-$200K private wide range. Result file written.

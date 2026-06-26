@@ -1,0 +1,370 @@
+================================================================================
+BATCH CITY COUNCIL SCRAPER TEST
+Testing 15 cities: 5 large, 5 medium, 5 small
+All cities selected for significant tourism activity
+================================================================================
+
+
+================================================================================
+Testing LARGE cities (5 total)
+================================================================================
+
+
+[LARGE 1/5] Processing: New Orleans City Council
+--------------------------------------------------------------------------------
+[normalize] New Orleans City Council (city)
+[model-search] 1 candidate URLs
+[fetch] 1 pages
+[parse] 1 parsed
+  Found 7 blocks
+  Extracted 0 people from page
+[extract] raw people: 0
+[resolve] unique people: 0
+✗ Failed after 25.8s
+  Error: No columns to parse from file
+--------------------------------------------------------------------------------
+
+[LARGE 2/5] Processing: Las Vegas City Council
+--------------------------------------------------------------------------------
+[normalize] Las Vegas City Council (city)
+[model-search] 2 candidate URLs
+[fetch] 2 pages
+[parse] 2 parsed
+  Found 6 blocks
+  Extracted 6 people from page
+  6 people missing contact info, using pattern-based enrichment...
+  Found 4 blocks
+  Extracted 0 people from page
+[extract] raw people: 6
+[resolve] unique people: 6
+[export] data/outputs/las_vegas_city_council.csv
+[report] data/reports/las_vegas_city_council_report.csv
+✓ Completed in 35.5s
+--------------------------------------------------------------------------------
+
+[LARGE 3/5] Processing: Orlando City Council
+--------------------------------------------------------------------------------
+[normalize] Orlando City Council (city)
+[model-search] 2 candidate URLs
+[fetch] 2 pages
+[parse] 2 parsed
+  Found 7 blocks
+  Extracted 7 people from page
+  Found 6 blocks
+  Extracted 3 people from page
+  3 people missing contact info, using pattern-based enrichment...
+  Identifying detail link pattern using first person: Buddy Dyer
+    → LLM found no suitable detail links
+[extract] raw people: 10
+[resolve] unique people: 7
+[export] data/outputs/orlando_city_council.csv
+[report] data/reports/orlando_city_council_report.csv
+✓ Completed in 61.4s
+--------------------------------------------------------------------------------
+
+[LARGE 4/5] Processing: San Diego City Council
+--------------------------------------------------------------------------------
+[normalize] San Diego City Council (city)
+[model-search] 3 candidate URLs
+[fetch] 3 pages
+[parse] 3 parsed
+  Found 29 blocks
+  Extracted 3 people from page
+  3 people missing contact info, using pattern-based enrichment...
+  Identifying detail link pattern using first person: Todd Gloria
+    → LLM selected link 0: https://www.sandiego.gov/mayor
+    → Extracted pattern: {'type': 'class', 'classes': ['tbm-link', 'level-4']}
+    Enriching Todd Gloria from /mayor
+    Enriching Todd Gloria from /mayor
+    Enriching Todd Gloria from /mayor
+  Found 29 blocks
+  Extracted 3 people from page
+  3 people missing contact info, using pattern-based enrichment...
+  Identifying detail link pattern using first person: Todd Gloria
+    → LLM selected link 0: https://www.sandiego.gov/mayor
+    → Extracted pattern: {'type': 'class', 'classes': ['tbm-link', 'level-4']}
+    Enriching Todd Gloria from /mayor
+    Enriching Todd Gloria from /mayor
+    Enriching Todd Gloria from /mayor
+  Found 29 blocks
+  Extracted 3 people from page
+  3 people missing contact info, using pattern-based enrichment...
+  Identifying detail link pattern using first person: Todd Gloria
+    → LLM selected link 0: https://www.sandiego.gov/mayor
+    → Extracted pattern: {'type': 'class', 'classes': ['tbm-link', 'level-4']}
+    Enriching Todd Gloria from /mayor
+    Enriching Todd Gloria from /mayor
+    Enriching Todd Gloria from /mayor
+[extract] raw people: 9
+[resolve] unique people: 1
+[export] data/outputs/san_diego_city_council.csv
+[report] data/reports/san_diego_city_council_report.csv
+✓ Completed in 289.4s
+--------------------------------------------------------------------------------
+
+[LARGE 5/5] Processing: Seattle City Council
+--------------------------------------------------------------------------------
+[normalize] Seattle City Council (city)
+[model-search] 3 candidate URLs
+[fetch] 3 pages
+[parse] 3 parsed
+  Found 1 blocks
+  Extracted 0 people from page
+  Found 1 blocks
+  Extracted 0 people from page
+  Found 1 blocks
+  Extracted 0 people from page
+[extract] raw people: 0
+[resolve] unique people: 0
+✗ Failed after 48.8s
+  Error: No columns to parse from file
+--------------------------------------------------------------------------------
+
+================================================================================
+Testing MEDIUM cities (5 total)
+================================================================================
+
+
+[MEDIUM 1/5] Processing: Charleston City Council
+--------------------------------------------------------------------------------
+[normalize] Charleston City Council (city)
+[model-search] 1 candidate URLs
+[fetch] 1 pages
+[parse] 1 parsed
+  Found 9 blocks
+  Extracted 1 people from page
+  1 people missing contact info, using pattern-based enrichment...
+  Identifying detail link pattern using first person: Belizant A. Moorer
+    → LLM selected link 0: https://www.charleston-sc.gov/2716/Belizant-A-Moorer-The-Practical-Influenc
+    → Extracted pattern: {'type': 'name_in_href'}
+    Enriching Belizant A. Moorer from /2716/Belizant-A-Moorer-The-Practical-Influenc
+[extract] raw people: 1
+[resolve] unique people: 1
+[export] data/outputs/charleston_city_council.csv
+[report] data/reports/charleston_city_council_report.csv
+✓ Completed in 54.6s
+--------------------------------------------------------------------------------
+
+[MEDIUM 2/5] Processing: Savannah City Council
+--------------------------------------------------------------------------------
+[normalize] Savannah City Council (city)
+[model-search] 2 candidate URLs
+[fetch] 2 pages
+[parse] 2 parsed
+  Found 6 blocks
+  Extracted 3 people from page
+  3 people missing contact info, using pattern-based enrichment...
+  Identifying detail link pattern using first person: Bernetta B. Lanier
+    → LLM found no suitable detail links
+  Found 11 blocks
+  Extracted 0 people from page
+[extract] raw people: 3
+[resolve] unique people: 3
+[export] data/outputs/savannah_city_council.csv
+[report] data/reports/savannah_city_council_report.csv
+✓ Completed in 121.5s
+--------------------------------------------------------------------------------
+
+[MEDIUM 3/5] Processing: Santa Fe City Council
+--------------------------------------------------------------------------------
+[normalize] Santa Fe City Council (city)
+[model-search] 1 candidate URLs
+[fetch] 1 pages
+[parse] 1 parsed
+  Found 18 blocks
+  Extracted 9 people from page
+[extract] raw people: 9
+[resolve] unique people: 9
+[export] data/outputs/santa_fe_city_council.csv
+[report] data/reports/santa_fe_city_council_report.csv
+✓ Completed in 387.2s
+--------------------------------------------------------------------------------
+
+[MEDIUM 4/5] Processing: Asheville City Council
+--------------------------------------------------------------------------------
+[normalize] Asheville City Council (city)
+[model-search] 1 candidate URLs
+[fetch] 1 pages
+[parse] 1 parsed
+  Found 7 blocks
+  Extracted 0 people from page
+[extract] raw people: 0
+[resolve] unique people: 0
+✗ Failed after 58.9s
+  Error: No columns to parse from file
+--------------------------------------------------------------------------------
+
+[MEDIUM 5/5] Processing: Key West City Commission
+--------------------------------------------------------------------------------
+[normalize] Key West City Commission Council (city)
+[model-search] 3 candidate URLs
+[fetch] 3 pages
+[parse] 3 parsed
+  Found 13 blocks
+  Extracted 0 people from page
+  Found 37 blocks
+  Extracted 1 people from page
+  1 people missing contact info, using pattern-based enrichment...
+  Identifying detail link pattern using first person: Danise "DeeDee" Henriquez
+    → LLM selected link 0: https://www.cityofkeywest-fl.gov/1075/About-Mayor-Danise-DeeDee-Henriquez
+    → Extracted pattern: {'type': 'name_in_href'}
+    Enriching Danise "DeeDee" Henriquez from /1075/About-Mayor-Danise-DeeDee-Henriquez
+  Found 8 blocks
+  Extracted 7 people from page
+  7 people missing contact info, using pattern-based enrichment...
+  Identifying detail link pattern using first person: Dorian Patton
+    → LLM selected link 0: https://www.cityofkeywest-fl.gov/directory.aspx?EID=417
+    → Extracted pattern: {'type': 'position', 'index': 0}
+    Enriching Dorian Patton from /directory.aspx?EID=417
+    Enriching Lissette Carey from /directory.aspx?EID=233
+    Enriching Aaron Castillo from /directory.aspx?EID=421
+    Enriching Monica Haskell from /directory.aspx?EID=413
+    Enriching Mary Lou Hoover from /directory.aspx?EID=247
+    Enriching Samuel Kaufman from /directory.aspx?EID=217
+    Enriching Donald "Donie" Lee from /directory.aspx?EID=412
+[extract] raw people: 8
+[resolve] unique people: 8
+[export] data/outputs/key_west_city_commission_council.csv
+[report] data/reports/key_west_city_commission_council_report.csv
+✓ Completed in 255.0s
+--------------------------------------------------------------------------------
+
+================================================================================
+Testing SMALL cities (5 total)
+================================================================================
+
+
+[SMALL 1/5] Processing: Park City Council
+--------------------------------------------------------------------------------
+[normalize] Park City Council (city)
+[model-search] 1 candidate URLs
+[fetch] 1 pages
+[parse] 1 parsed
+  Found 4 blocks
+  Extracted 0 people from page
+[extract] raw people: 0
+[resolve] unique people: 0
+✗ Failed after 33.0s
+  Error: No columns to parse from file
+--------------------------------------------------------------------------------
+
+[SMALL 2/5] Processing: Sedona City Council
+--------------------------------------------------------------------------------
+[normalize] Sedona City Council (city)
+[model-search] 1 candidate URLs
+[fetch] 1 pages
+[parse] 1 parsed
+  Found 1 blocks
+  Extracted 0 people from page
+[extract] raw people: 0
+[resolve] unique people: 0
+✗ Failed after 31.4s
+  Error: No columns to parse from file
+--------------------------------------------------------------------------------
+
+[SMALL 3/5] Processing: Napa City Council
+--------------------------------------------------------------------------------
+[normalize] Napa City Council (city)
+[model-search] 2 candidate URLs
+[fetch] 2 pages
+[parse] 2 parsed
+  Found 8 blocks
+  Extracted 4 people from page
+  4 people missing contact info, using pattern-based enrichment...
+  Identifying detail link pattern using first person: Christopher DeNatale
+    → LLM selected link 1: https://www.cityofnapa.org/1351/Chris-DeNatale
+    → Extracted pattern: {'type': 'name_in_href'}
+    Enriching Christopher DeNatale from https://www.cityofnapa.org/1351/Chris-DeNatale
+    Enriching Beth Painter from https://www.cityofnapa.org/977/Beth-Painter
+    Enriching Mary Luros from https://www.cityofnapa.org/257/Mary-Luros
+    Enriching Bernie Narvaez from https://www.cityofnapa.org/978/Bernie-Narvaez
+  Found 5 blocks
+  Extracted 5 people from page
+  5 people missing contact info, using pattern-based enrichment...
+  Identifying detail link pattern using first person: Scott Sedgley
+    → LLM selected link 0: https://www.cityofnapa.org/directory.aspx?EID=60
+    → Extracted pattern: {'type': 'position', 'index': 0}
+    Enriching Scott Sedgley from /directory.aspx?EID=60
+    Enriching Christopher DeNatale from /directory.aspx?EID=362
+    Enriching Mary Luros from /directory.aspx?EID=192
+    Enriching Beth Painter from /directory.aspx?EID=241
+    Enriching Bernie Narvaez from /directory.aspx?EID=242
+[extract] raw people: 9
+[resolve] unique people: 5
+[export] data/outputs/napa_city_council.csv
+[report] data/reports/napa_city_council_report.csv
+✓ Completed in 85.3s
+--------------------------------------------------------------------------------
+
+[SMALL 4/5] Processing: Aspen City Council
+--------------------------------------------------------------------------------
+[normalize] Aspen City Council (city)
+[model-search] 2 candidate URLs
+[fetch] 2 pages
+[parse] 2 parsed
+  Found 5 blocks
+  Extracted 1 people from page
+  Found 5 blocks
+  Extracted 5 people from page
+  5 people missing contact info, using pattern-based enrichment...
+  Identifying detail link pattern using first person: Rachael Richards
+    → LLM selected link 0: https://www.aspen.gov/directory.aspx?EID=326
+    → Extracted pattern: {'type': 'position', 'index': 0}
+    Enriching Rachael Richards from /directory.aspx?EID=326
+    Enriching Christine Benedetti from /directory.aspx?EID=266
+    Enriching Bill Guth from /directory.aspx?EID=325
+    Enriching John Doyle from /directory.aspx?EID=267
+    Enriching Sam Rose from /directory.aspx?EID=327
+[extract] raw people: 6
+[resolve] unique people: 5
+[export] data/outputs/aspen_city_council.csv
+[report] data/reports/aspen_city_council_report.csv
+✓ Completed in 57.5s
+--------------------------------------------------------------------------------
+
+[SMALL 5/5] Processing: Carmel-by-the-Sea City Council
+--------------------------------------------------------------------------------
+[normalize] Carmel-by-the-Sea City Council (city)
+[model-search] 1 candidate URLs
+[fetch] 1 pages
+[parse] 1 parsed
+  Found 14 blocks
+  Extracted 1 people from page
+[extract] raw people: 1
+[resolve] unique people: 1
+[export] data/outputs/carmel-by-the-sea_city_council.csv
+[report] data/reports/carmel-by-the-sea_city_council_report.csv
+✓ Completed in 75.3s
+--------------------------------------------------------------------------------
+
+================================================================================
+SUMMARY
+================================================================================
+
+Total cities tested: 15
+Successful: 10
+Failed: 5
+Success rate: 66.7%
+Total duration: 27.0 minutes
+Average time per city: 108.0s
+
+By size category:
+  Large: 3/5 successful
+  Medium: 4/5 successful
+  Small: 3/5 successful
+
+Failed cities:
+  - New Orleans City Council
+    Error: No columns to parse from file
+  - Seattle City Council
+    Error: No columns to parse from file
+  - Asheville City Council
+    Error: No columns to parse from file
+  - Park City Council
+    Error: No columns to parse from file
+  - Sedona City Council
+    Error: No columns to parse from file
+
+================================================================================
+Check data/outputs/ for CSV files and data/reports/ for summary reports
+================================================================================

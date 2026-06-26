@@ -1,0 +1,66 @@
+dimension,segment,merchants,converters,rate_pct
+country,AE,54,6,11.11
+country,JP,253,16,6.32
+country,MX,188,6,3.19
+country,US,4793,132,2.75
+country,CZ,44,1,2.27
+country,PL,45,1,2.22
+country,RO,50,1,2.0
+country,SE,102,2,1.96
+country,AT,110,2,1.82
+country,DE,357,6,1.68
+country,ES,629,10,1.59
+country,CA,839,13,1.55
+country,HK,131,2,1.53
+country,GB,2273,34,1.5
+country,PT,69,1,1.45
+country,FR,1140,15,1.32
+country,AU,927,11,1.19
+country,IN,193,2,1.04
+country,CH,211,2,0.95
+country,NL,115,1,0.87
+country,SG,137,1,0.73
+country,IT,599,2,0.33
+country,IE,310,0,0.0
+country,BE,116,0,0.0
+country,LT,34,0,0.0
+country,NO,91,0,0.0
+country,DK,67,0,0.0
+country,NZ,171,0,0.0
+country,SK,40,0,0.0
+country,EE,37,0,0.0
+country,GR,30,0,0.0
+country,BR,61,0,0.0
+country,FI,38,0,0.0
+country,SI,49,0,0.0
+country,LV,30,0,0.0
+country,MY,84,0,0.0
+dominant_product,paylink,667,39,5.85
+dominant_product,unattributed,12683,212,1.67
+dominant_product,checkout,1161,16,1.38
+industry,Personal services,1016,51,5.02
+industry,Business services,1615,63,3.9
+industry,Healthcare,126,4,3.17
+industry,Charity,279,8,2.87
+industry,"Religion, politics & other memberships",431,10,2.32
+industry,Education,808,18,2.23
+industry,Software,905,20,2.21
+industry,"Medical services, drugs, testing labs & equipment medium",235,5,2.13
+industry,Rentals,217,4,1.84
+industry,Digital goods,832,14,1.68
+industry,Specialty retail,281,4,1.42
+industry,Art & photography,358,5,1.4
+industry,Ticketing & events,293,4,1.37
+industry,Others,1038,13,1.25
+industry,Clothing & accessory,934,10,1.07
+industry,Furnishing,333,3,0.9
+industry,Grocery & food stores,566,5,0.88
+industry,Transportation & car rental,116,1,0.86
+industry,Leisure,371,3,0.81
+industry,Travel & lodging,504,4,0.79
+industry,Electronics,136,1,0.74
+industry,Construction,145,1,0.69
+industry,Cosmetics,309,2,0.65
+industry,Merchandise,1437,9,0.63
+industry,Automotive parts and repair/service shops,177,1,0.56
+industry,Food & drink,1021,3,0.29
