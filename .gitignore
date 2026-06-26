@@ -87,6 +87,7 @@ ipython_config.py
 env/
 venv/
 *_env/
+Stripe Takehome/
 *.csv.csv
 ENV/
 env.bak/
