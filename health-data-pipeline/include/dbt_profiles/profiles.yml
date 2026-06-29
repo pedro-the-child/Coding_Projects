@@ -1,0 +1,11 @@
+oura_project:
+  target: dev
+  outputs:
+    dev:
+      type: bigquery
+      method: oauth
+      project: dbt-practice-sandbox
+      dataset: oura_staging
+      location: US
+      threads: 4
+      timeout_seconds: 300

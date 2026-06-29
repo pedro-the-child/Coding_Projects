@@ -1,0 +1,19 @@
+version: 2
+
+models:
+  - name: fct_daily_biometrics
+    description: One row per day with all Oura biometric signals joined together.
+    columns:
+      - name: metric_date
+        description: Calendar date (primary key)
+        tests: [not_null, unique]
+      - name: sleep_score
+        tests:
+          - not_null:
+              config:
+                severity: warn
+      - name: readiness_score
+        tests:
+          - not_null:
+              config:
+                severity: warn

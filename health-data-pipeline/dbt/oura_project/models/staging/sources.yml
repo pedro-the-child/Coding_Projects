@@ -1,0 +1,50 @@
+version: 2
+
+sources:
+  - name: oura_raw
+    database: dbt-practice-sandbox
+    schema: oura_raw
+    config:
+      freshness: null
+
+    tables:
+      - name: daily_sleep
+        description: Daily sleep summary scores from Oura
+        columns:
+          - name: id
+            tests: [not_null, unique]
+          - name: day
+            tests: [not_null]
+
+      - name: sleep
+        description: Individual sleep sessions (may be multiple per day)
+        columns:
+          - name: id
+            tests: [not_null, unique]
+
+      - name: daily_readiness
+        description: Daily readiness scores from Oura
+        columns:
+          - name: id
+            tests: [not_null, unique]
+          - name: day
+            tests: [not_null]
+
+      - name: daily_activity
+        description: Daily activity summary from Oura
+        columns:
+          - name: id
+            tests: [not_null, unique]
+          - name: day
+            tests: [not_null]
+
+      - name: heartrate
+        description: Heart rate samples (1–5 min intervals)
+        columns:
+          - name: timestamp
+            tests: [not_null]
+
+      - name: workout
+        description: Workout sessions logged by Oura (table only exists when workouts are present)
+        config:
+          freshness: null

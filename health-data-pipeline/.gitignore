@@ -1,0 +1,39 @@
+# Secrets — never commit these
+.env
+.tokens.json
+*.json.key
+service_account*.json
+gcp_credentials*.json
+
+# Astro / Airflow
+.astro/
+airflow_settings.yaml
+airflow_settings.local.yaml
+
+# Python
+__pycache__/
+.venv/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+dist/
+build/
+
+# dbt
+dbt/oura_project/target/
+dbt/oura_project/dbt_packages/
+dbt/oura_project/logs/
+
+# macOS
+.DS_Store
+
+# GCP credentials (mounted into Astro container via include/)
+include/gcloud/
+
+# dlt local state
+extraction/*.duckdb
+extraction/.dlt/
+
+# Logs (keep the directory, ignore contents)
+logs/*.log
