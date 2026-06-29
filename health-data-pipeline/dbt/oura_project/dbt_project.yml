@@ -1,0 +1,28 @@
+name: oura_project
+version: '1.0.0'
+profile: oura_project
+
+model-paths: ["models"]
+seed-paths: ["seeds"]
+test-paths: ["tests"]
+analysis-paths: ["analyses"]
+macro-paths: ["macros"]
+
+target-path: "target"
+clean-targets:
+  - "target"
+  - "dbt_packages"
+
+models:
+  oura_project:
+    staging:
+      +schema: oura_staging
+      +materialized: view
+      stg_oura__workout:
+        +enabled: false
+    intermediate:
+      +schema: oura_intermediate
+      +materialized: view
+    marts:
+      +schema: oura_analytics
+      +materialized: table

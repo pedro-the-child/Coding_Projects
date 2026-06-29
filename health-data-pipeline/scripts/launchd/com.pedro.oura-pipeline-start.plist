@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Label</key>
+    <string>com.pedro.oura-pipeline-start</string>
+
+    <key>ProgramArguments</key>
+    <array>
+        <string>/bin/bash</string>
+        <string>/Users/pedro/Coding Projects/health-data-pipeline/scripts/start_pipeline.sh</string>
+    </array>
+
+    <key>StartCalendarInterval</key>
+    <dict>
+        <key>Hour</key>
+        <integer>6</integer>
+        <key>Minute</key>
+        <integer>0</integer>
+    </dict>
+
+    <key>StandardOutPath</key>
+    <string>/Users/pedro/Coding Projects/health-data-pipeline/logs/launchd-start.log</string>
+    <key>StandardErrorPath</key>
+    <string>/Users/pedro/Coding Projects/health-data-pipeline/logs/launchd-start.log</string>
+
+    <key>RunAtLoad</key>
+    <false/>
+
+    <!-- Keep the backgrounded `caffeinate` alive after this job's main
+         process exits, so the machine stays awake through the DAG run. -->
+    <key>AbandonProcessGroup</key>
+    <true/>
+</dict>
+</plist>
